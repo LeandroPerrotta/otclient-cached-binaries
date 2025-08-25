@@ -1269,6 +1269,6 @@ CMakeFiles/otclient.dir/src/framework/core/graphicalapplication.cpp.o: \
  /home/leandro/.local/share/otclient-cef/include/cef_task.h \
  /home/leandro/.local/share/otclient-cef/include/cef_resource_bundle_handler.h \
  /home/leandro/.local/share/otclient-cef/include/cef_scheme.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/ui/uicefwebview.h \
+ /home/leandro/darghos/otclient-dev/edubart/src/framework/../cef/ui/uicefwebview.h \
  /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/ui/uiwebview.h \
  /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/image.h

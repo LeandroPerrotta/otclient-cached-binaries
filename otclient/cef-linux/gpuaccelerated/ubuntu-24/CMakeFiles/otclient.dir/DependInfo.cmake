@@ -8,6 +8,14 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_app.cpp" "CMakeFiles/otclient.dir/src/cef/core/cef_app.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/cef/core/cef_app.cpp.o.d"
+  "/home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_config.cpp" "CMakeFiles/otclient.dir/src/cef/core/cef_config.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/cef/core/cef_config.cpp.o.d"
+  "/home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_conflinux.cpp" "CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.o.d"
+  "/home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_helper.cpp" "CMakeFiles/otclient.dir/src/cef/core/cef_helper.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/cef/core/cef_helper.cpp.o.d"
+  "/home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_init.cpp" "CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.o.d"
+  "/home/leandro/darghos/otclient-dev/edubart/src/cef/resources/cefphysfsresourcehandler.cpp" "CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.o.d"
+  "/home/leandro/darghos/otclient-dev/edubart/src/cef/ui/cef_inputhandler.cpp" "CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.o.d"
+  "/home/leandro/darghos/otclient-dev/edubart/src/cef/ui/uicefwebview.cpp" "CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o.d"
   "/home/leandro/darghos/otclient-dev/edubart/src/client/animatedtext.cpp" "CMakeFiles/otclient.dir/src/client/animatedtext.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/client/animatedtext.cpp.o.d"
   "/home/leandro/darghos/otclient-dev/edubart/src/client/animator.cpp" "CMakeFiles/otclient.dir/src/client/animator.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/client/animator.cpp.o.d"
   "/home/leandro/darghos/otclient-dev/edubart/src/client/client.cpp" "CMakeFiles/otclient.dir/src/client/client.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/client/client.cpp.o.d"
@@ -132,10 +140,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/net.cpp" "CMakeFiles/otclient.dir/src/framework/stdext/net.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/framework/stdext/net.cpp.o.d"
   "/home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/string.cpp" "CMakeFiles/otclient.dir/src/framework/stdext/string.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/framework/stdext/string.cpp.o.d"
   "/home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/time.cpp" "CMakeFiles/otclient.dir/src/framework/stdext/time.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/framework/stdext/time.cpp.o.d"
-  "/home/leandro/darghos/otclient-dev/edubart/src/framework/ui/cefphysfsresourcehandler.cpp" "CMakeFiles/otclient.dir/src/framework/ui/cefphysfsresourcehandler.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/framework/ui/cefphysfsresourcehandler.cpp.o.d"
   "/home/leandro/darghos/otclient-dev/edubart/src/framework/ui/uianchorlayout.cpp" "CMakeFiles/otclient.dir/src/framework/ui/uianchorlayout.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/framework/ui/uianchorlayout.cpp.o.d"
   "/home/leandro/darghos/otclient-dev/edubart/src/framework/ui/uiboxlayout.cpp" "CMakeFiles/otclient.dir/src/framework/ui/uiboxlayout.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/framework/ui/uiboxlayout.cpp.o.d"
-  "/home/leandro/darghos/otclient-dev/edubart/src/framework/ui/uicefwebview.cpp" "CMakeFiles/otclient.dir/src/framework/ui/uicefwebview.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/framework/ui/uicefwebview.cpp.o.d"
   "/home/leandro/darghos/otclient-dev/edubart/src/framework/ui/uigridlayout.cpp" "CMakeFiles/otclient.dir/src/framework/ui/uigridlayout.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/framework/ui/uigridlayout.cpp.o.d"
   "/home/leandro/darghos/otclient-dev/edubart/src/framework/ui/uihorizontallayout.cpp" "CMakeFiles/otclient.dir/src/framework/ui/uihorizontallayout.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/framework/ui/uihorizontallayout.cpp.o.d"
   "/home/leandro/darghos/otclient-dev/edubart/src/framework/ui/uilayout.cpp" "CMakeFiles/otclient.dir/src/framework/ui/uilayout.cpp.o" "gcc" "CMakeFiles/otclient.dir/src/framework/ui/uilayout.cpp.o.d"

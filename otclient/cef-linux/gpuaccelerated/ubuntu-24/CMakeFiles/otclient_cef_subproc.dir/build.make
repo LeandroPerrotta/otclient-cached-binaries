@@ -69,34 +69,98 @@ include CMakeFiles/otclient_cef_subproc.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/otclient_cef_subproc.dir/flags.make
 
-CMakeFiles/otclient_cef_subproc.dir/src/cef_subprocess/main.cpp.o: CMakeFiles/otclient_cef_subproc.dir/flags.make
-CMakeFiles/otclient_cef_subproc.dir/src/cef_subprocess/main.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/cef_subprocess/main.cpp
-CMakeFiles/otclient_cef_subproc.dir/src/cef_subprocess/main.cpp.o: CMakeFiles/otclient_cef_subproc.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/otclient_cef_subproc.dir/src/cef_subprocess/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient_cef_subproc.dir/src/cef_subprocess/main.cpp.o -MF CMakeFiles/otclient_cef_subproc.dir/src/cef_subprocess/main.cpp.o.d -o CMakeFiles/otclient_cef_subproc.dir/src/cef_subprocess/main.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/cef_subprocess/main.cpp
+CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.o: CMakeFiles/otclient_cef_subproc.dir/flags.make
+CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/cef/subprocess/main.cpp
+CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.o: CMakeFiles/otclient_cef_subproc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.o -MF CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.o.d -o CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/cef/subprocess/main.cpp
 
-CMakeFiles/otclient_cef_subproc.dir/src/cef_subprocess/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/otclient_cef_subproc.dir/src/cef_subprocess/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leandro/darghos/otclient-dev/edubart/src/cef_subprocess/main.cpp > CMakeFiles/otclient_cef_subproc.dir/src/cef_subprocess/main.cpp.i
+CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leandro/darghos/otclient-dev/edubart/src/cef/subprocess/main.cpp > CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.i
 
-CMakeFiles/otclient_cef_subproc.dir/src/cef_subprocess/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient_cef_subproc.dir/src/cef_subprocess/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/cef_subprocess/main.cpp -o CMakeFiles/otclient_cef_subproc.dir/src/cef_subprocess/main.cpp.s
+CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/cef/subprocess/main.cpp -o CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.s
+
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_app.cpp.o: CMakeFiles/otclient_cef_subproc.dir/flags.make
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_app.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_app.cpp
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_app.cpp.o: CMakeFiles/otclient_cef_subproc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_app.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_app.cpp.o -MF CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_app.cpp.o.d -o CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_app.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_app.cpp
+
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_app.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_app.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_app.cpp > CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_app.cpp.i
+
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_app.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_app.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_app.cpp -o CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_app.cpp.s
+
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_helper.cpp.o: CMakeFiles/otclient_cef_subproc.dir/flags.make
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_helper.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_helper.cpp
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_helper.cpp.o: CMakeFiles/otclient_cef_subproc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_helper.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_helper.cpp.o -MF CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_helper.cpp.o.d -o CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_helper.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_helper.cpp
+
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_helper.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_helper.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_helper.cpp > CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_helper.cpp.i
+
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_helper.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_helper.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_helper.cpp -o CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_helper.cpp.s
+
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_config.cpp.o: CMakeFiles/otclient_cef_subproc.dir/flags.make
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_config.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_config.cpp
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_config.cpp.o: CMakeFiles/otclient_cef_subproc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_config.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_config.cpp.o -MF CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_config.cpp.o.d -o CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_config.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_config.cpp
+
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_config.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_config.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_config.cpp > CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_config.cpp.i
+
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_config.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_config.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_config.cpp -o CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_config.cpp.s
+
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_conflinux.cpp.o: CMakeFiles/otclient_cef_subproc.dir/flags.make
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_conflinux.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_conflinux.cpp
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_conflinux.cpp.o: CMakeFiles/otclient_cef_subproc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_conflinux.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_conflinux.cpp.o -MF CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_conflinux.cpp.o.d -o CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_conflinux.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_conflinux.cpp
+
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_conflinux.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_conflinux.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_conflinux.cpp > CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_conflinux.cpp.i
+
+CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_conflinux.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_conflinux.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_conflinux.cpp -o CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_conflinux.cpp.s
 
 # Object files for target otclient_cef_subproc
 otclient_cef_subproc_OBJECTS = \
-"CMakeFiles/otclient_cef_subproc.dir/src/cef_subprocess/main.cpp.o"
+"CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.o" \
+"CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_app.cpp.o" \
+"CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_helper.cpp.o" \
+"CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_config.cpp.o" \
+"CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_conflinux.cpp.o"
 
 # External object files for target otclient_cef_subproc
 otclient_cef_subproc_EXTERNAL_OBJECTS =
 
-otclient_cef_subproc: CMakeFiles/otclient_cef_subproc.dir/src/cef_subprocess/main.cpp.o
+otclient_cef_subproc: CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.o
+otclient_cef_subproc: CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_app.cpp.o
+otclient_cef_subproc: CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_helper.cpp.o
+otclient_cef_subproc: CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_config.cpp.o
+otclient_cef_subproc: CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_conflinux.cpp.o
 otclient_cef_subproc: CMakeFiles/otclient_cef_subproc.dir/build.make
 otclient_cef_subproc: /home/leandro/darghos/otclient-dev/edubart/cef/libcef.so
 otclient_cef_subproc: /home/leandro/darghos/otclient-dev/edubart/cef/libcef_dll_wrapper.a
 otclient_cef_subproc: /home/leandro/darghos/otclient-dev/edubart/src/app.manifest
 otclient_cef_subproc: CMakeFiles/otclient_cef_subproc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable otclient_cef_subproc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable otclient_cef_subproc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/otclient_cef_subproc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

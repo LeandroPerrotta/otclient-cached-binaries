@@ -1225,7 +1225,7 @@ CMakeFiles/otclient.dir/src/framework/luafunctions.cpp.o: \
  /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/ui/uiwidget.h \
  /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/ui/uiwebview.h \
  /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/ui/uiwebview.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/ui/uicefwebview.h \
+ /home/leandro/darghos/otclient-dev/edubart/src/framework/../cef/ui/uicefwebview.h \
  /home/leandro/.local/share/otclient-cef/include/cef_browser.h \
  /home/leandro/.local/share/otclient-cef/include/cef_base.h \
  /home/leandro/.local/share/otclient-cef/include/base/cef_build.h \

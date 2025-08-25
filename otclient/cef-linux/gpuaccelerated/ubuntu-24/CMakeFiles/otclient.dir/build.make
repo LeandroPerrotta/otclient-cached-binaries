@@ -1203,38 +1203,10 @@ CMakeFiles/otclient.dir/src/framework/ui/uiwebview.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient.dir/src/framework/ui/uiwebview.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/framework/ui/uiwebview.cpp -o CMakeFiles/otclient.dir/src/framework/ui/uiwebview.cpp.s
 
-CMakeFiles/otclient.dir/src/framework/ui/uicefwebview.cpp.o: CMakeFiles/otclient.dir/flags.make
-CMakeFiles/otclient.dir/src/framework/ui/uicefwebview.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/ui/uicefwebview.cpp
-CMakeFiles/otclient.dir/src/framework/ui/uicefwebview.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/otclient.dir/src/framework/ui/uicefwebview.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/ui/uicefwebview.cpp.o -MF CMakeFiles/otclient.dir/src/framework/ui/uicefwebview.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/ui/uicefwebview.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/ui/uicefwebview.cpp
-
-CMakeFiles/otclient.dir/src/framework/ui/uicefwebview.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/otclient.dir/src/framework/ui/uicefwebview.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leandro/darghos/otclient-dev/edubart/src/framework/ui/uicefwebview.cpp > CMakeFiles/otclient.dir/src/framework/ui/uicefwebview.cpp.i
-
-CMakeFiles/otclient.dir/src/framework/ui/uicefwebview.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient.dir/src/framework/ui/uicefwebview.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/framework/ui/uicefwebview.cpp -o CMakeFiles/otclient.dir/src/framework/ui/uicefwebview.cpp.s
-
-CMakeFiles/otclient.dir/src/framework/ui/cefphysfsresourcehandler.cpp.o: CMakeFiles/otclient.dir/flags.make
-CMakeFiles/otclient.dir/src/framework/ui/cefphysfsresourcehandler.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/ui/cefphysfsresourcehandler.cpp
-CMakeFiles/otclient.dir/src/framework/ui/cefphysfsresourcehandler.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/otclient.dir/src/framework/ui/cefphysfsresourcehandler.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/ui/cefphysfsresourcehandler.cpp.o -MF CMakeFiles/otclient.dir/src/framework/ui/cefphysfsresourcehandler.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/ui/cefphysfsresourcehandler.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/ui/cefphysfsresourcehandler.cpp
-
-CMakeFiles/otclient.dir/src/framework/ui/cefphysfsresourcehandler.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/otclient.dir/src/framework/ui/cefphysfsresourcehandler.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leandro/darghos/otclient-dev/edubart/src/framework/ui/cefphysfsresourcehandler.cpp > CMakeFiles/otclient.dir/src/framework/ui/cefphysfsresourcehandler.cpp.i
-
-CMakeFiles/otclient.dir/src/framework/ui/cefphysfsresourcehandler.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient.dir/src/framework/ui/cefphysfsresourcehandler.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/framework/ui/cefphysfsresourcehandler.cpp -o CMakeFiles/otclient.dir/src/framework/ui/cefphysfsresourcehandler.cpp.s
-
 CMakeFiles/otclient.dir/src/framework/platform/platformwindow.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/platform/platformwindow.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/platform/platformwindow.cpp
 CMakeFiles/otclient.dir/src/framework/platform/platformwindow.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/otclient.dir/src/framework/platform/platformwindow.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/otclient.dir/src/framework/platform/platformwindow.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/platform/platformwindow.cpp.o -MF CMakeFiles/otclient.dir/src/framework/platform/platformwindow.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/platform/platformwindow.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/platform/platformwindow.cpp
 
 CMakeFiles/otclient.dir/src/framework/platform/platformwindow.cpp.i: cmake_force
@@ -1248,7 +1220,7 @@ CMakeFiles/otclient.dir/src/framework/platform/platformwindow.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/platform/win32window.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/platform/win32window.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/platform/win32window.cpp
 CMakeFiles/otclient.dir/src/framework/platform/win32window.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/otclient.dir/src/framework/platform/win32window.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/otclient.dir/src/framework/platform/win32window.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/platform/win32window.cpp.o -MF CMakeFiles/otclient.dir/src/framework/platform/win32window.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/platform/win32window.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/platform/win32window.cpp
 
 CMakeFiles/otclient.dir/src/framework/platform/win32window.cpp.i: cmake_force
@@ -1262,7 +1234,7 @@ CMakeFiles/otclient.dir/src/framework/platform/win32window.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/platform/x11window.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/platform/x11window.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/platform/x11window.cpp
 CMakeFiles/otclient.dir/src/framework/platform/x11window.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/otclient.dir/src/framework/platform/x11window.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/otclient.dir/src/framework/platform/x11window.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/platform/x11window.cpp.o -MF CMakeFiles/otclient.dir/src/framework/platform/x11window.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/platform/x11window.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/platform/x11window.cpp
 
 CMakeFiles/otclient.dir/src/framework/platform/x11window.cpp.i: cmake_force
@@ -1276,7 +1248,7 @@ CMakeFiles/otclient.dir/src/framework/platform/x11window.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/input/mouse.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/input/mouse.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/input/mouse.cpp
 CMakeFiles/otclient.dir/src/framework/input/mouse.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/otclient.dir/src/framework/input/mouse.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/otclient.dir/src/framework/input/mouse.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/input/mouse.cpp.o -MF CMakeFiles/otclient.dir/src/framework/input/mouse.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/input/mouse.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/input/mouse.cpp
 
 CMakeFiles/otclient.dir/src/framework/input/mouse.cpp.i: cmake_force
@@ -1290,7 +1262,7 @@ CMakeFiles/otclient.dir/src/framework/input/mouse.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/core/graphicalapplication.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/core/graphicalapplication.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/core/graphicalapplication.cpp
 CMakeFiles/otclient.dir/src/framework/core/graphicalapplication.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/otclient.dir/src/framework/core/graphicalapplication.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/otclient.dir/src/framework/core/graphicalapplication.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/core/graphicalapplication.cpp.o -MF CMakeFiles/otclient.dir/src/framework/core/graphicalapplication.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/core/graphicalapplication.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/core/graphicalapplication.cpp
 
 CMakeFiles/otclient.dir/src/framework/core/graphicalapplication.cpp.i: cmake_force
@@ -1304,7 +1276,7 @@ CMakeFiles/otclient.dir/src/framework/core/graphicalapplication.cpp.s: cmake_for
 CMakeFiles/otclient.dir/src/framework/sound/combinedsoundsource.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/sound/combinedsoundsource.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/sound/combinedsoundsource.cpp
 CMakeFiles/otclient.dir/src/framework/sound/combinedsoundsource.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/otclient.dir/src/framework/sound/combinedsoundsource.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/otclient.dir/src/framework/sound/combinedsoundsource.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/sound/combinedsoundsource.cpp.o -MF CMakeFiles/otclient.dir/src/framework/sound/combinedsoundsource.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/sound/combinedsoundsource.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/sound/combinedsoundsource.cpp
 
 CMakeFiles/otclient.dir/src/framework/sound/combinedsoundsource.cpp.i: cmake_force
@@ -1318,7 +1290,7 @@ CMakeFiles/otclient.dir/src/framework/sound/combinedsoundsource.cpp.s: cmake_for
 CMakeFiles/otclient.dir/src/framework/sound/oggsoundfile.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/sound/oggsoundfile.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/sound/oggsoundfile.cpp
 CMakeFiles/otclient.dir/src/framework/sound/oggsoundfile.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building CXX object CMakeFiles/otclient.dir/src/framework/sound/oggsoundfile.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/otclient.dir/src/framework/sound/oggsoundfile.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/sound/oggsoundfile.cpp.o -MF CMakeFiles/otclient.dir/src/framework/sound/oggsoundfile.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/sound/oggsoundfile.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/sound/oggsoundfile.cpp
 
 CMakeFiles/otclient.dir/src/framework/sound/oggsoundfile.cpp.i: cmake_force
@@ -1332,7 +1304,7 @@ CMakeFiles/otclient.dir/src/framework/sound/oggsoundfile.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/sound/soundbuffer.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/sound/soundbuffer.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/sound/soundbuffer.cpp
 CMakeFiles/otclient.dir/src/framework/sound/soundbuffer.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building CXX object CMakeFiles/otclient.dir/src/framework/sound/soundbuffer.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/otclient.dir/src/framework/sound/soundbuffer.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/sound/soundbuffer.cpp.o -MF CMakeFiles/otclient.dir/src/framework/sound/soundbuffer.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/sound/soundbuffer.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/sound/soundbuffer.cpp
 
 CMakeFiles/otclient.dir/src/framework/sound/soundbuffer.cpp.i: cmake_force
@@ -1346,7 +1318,7 @@ CMakeFiles/otclient.dir/src/framework/sound/soundbuffer.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/sound/soundchannel.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/sound/soundchannel.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/sound/soundchannel.cpp
 CMakeFiles/otclient.dir/src/framework/sound/soundchannel.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building CXX object CMakeFiles/otclient.dir/src/framework/sound/soundchannel.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building CXX object CMakeFiles/otclient.dir/src/framework/sound/soundchannel.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/sound/soundchannel.cpp.o -MF CMakeFiles/otclient.dir/src/framework/sound/soundchannel.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/sound/soundchannel.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/sound/soundchannel.cpp
 
 CMakeFiles/otclient.dir/src/framework/sound/soundchannel.cpp.i: cmake_force
@@ -1360,7 +1332,7 @@ CMakeFiles/otclient.dir/src/framework/sound/soundchannel.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/sound/soundfile.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/sound/soundfile.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/sound/soundfile.cpp
 CMakeFiles/otclient.dir/src/framework/sound/soundfile.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/otclient.dir/src/framework/sound/soundfile.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building CXX object CMakeFiles/otclient.dir/src/framework/sound/soundfile.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/sound/soundfile.cpp.o -MF CMakeFiles/otclient.dir/src/framework/sound/soundfile.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/sound/soundfile.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/sound/soundfile.cpp
 
 CMakeFiles/otclient.dir/src/framework/sound/soundfile.cpp.i: cmake_force
@@ -1374,7 +1346,7 @@ CMakeFiles/otclient.dir/src/framework/sound/soundfile.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/sound/soundmanager.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/sound/soundmanager.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/sound/soundmanager.cpp
 CMakeFiles/otclient.dir/src/framework/sound/soundmanager.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/otclient.dir/src/framework/sound/soundmanager.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building CXX object CMakeFiles/otclient.dir/src/framework/sound/soundmanager.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/sound/soundmanager.cpp.o -MF CMakeFiles/otclient.dir/src/framework/sound/soundmanager.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/sound/soundmanager.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/sound/soundmanager.cpp
 
 CMakeFiles/otclient.dir/src/framework/sound/soundmanager.cpp.i: cmake_force
@@ -1388,7 +1360,7 @@ CMakeFiles/otclient.dir/src/framework/sound/soundmanager.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/sound/soundsource.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/sound/soundsource.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/sound/soundsource.cpp
 CMakeFiles/otclient.dir/src/framework/sound/soundsource.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/otclient.dir/src/framework/sound/soundsource.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/otclient.dir/src/framework/sound/soundsource.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/sound/soundsource.cpp.o -MF CMakeFiles/otclient.dir/src/framework/sound/soundsource.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/sound/soundsource.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/sound/soundsource.cpp
 
 CMakeFiles/otclient.dir/src/framework/sound/soundsource.cpp.i: cmake_force
@@ -1402,7 +1374,7 @@ CMakeFiles/otclient.dir/src/framework/sound/soundsource.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/sound/streamsoundsource.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/sound/streamsoundsource.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/sound/streamsoundsource.cpp
 CMakeFiles/otclient.dir/src/framework/sound/streamsoundsource.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/otclient.dir/src/framework/sound/streamsoundsource.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/otclient.dir/src/framework/sound/streamsoundsource.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/sound/streamsoundsource.cpp.o -MF CMakeFiles/otclient.dir/src/framework/sound/streamsoundsource.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/sound/streamsoundsource.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/sound/streamsoundsource.cpp
 
 CMakeFiles/otclient.dir/src/framework/sound/streamsoundsource.cpp.i: cmake_force
@@ -1416,7 +1388,7 @@ CMakeFiles/otclient.dir/src/framework/sound/streamsoundsource.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/net/connection.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/net/connection.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/net/connection.cpp
 CMakeFiles/otclient.dir/src/framework/net/connection.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/otclient.dir/src/framework/net/connection.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/otclient.dir/src/framework/net/connection.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/net/connection.cpp.o -MF CMakeFiles/otclient.dir/src/framework/net/connection.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/net/connection.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/net/connection.cpp
 
 CMakeFiles/otclient.dir/src/framework/net/connection.cpp.i: cmake_force
@@ -1430,7 +1402,7 @@ CMakeFiles/otclient.dir/src/framework/net/connection.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/net/inputmessage.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/net/inputmessage.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/net/inputmessage.cpp
 CMakeFiles/otclient.dir/src/framework/net/inputmessage.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object CMakeFiles/otclient.dir/src/framework/net/inputmessage.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/otclient.dir/src/framework/net/inputmessage.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/net/inputmessage.cpp.o -MF CMakeFiles/otclient.dir/src/framework/net/inputmessage.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/net/inputmessage.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/net/inputmessage.cpp
 
 CMakeFiles/otclient.dir/src/framework/net/inputmessage.cpp.i: cmake_force
@@ -1444,7 +1416,7 @@ CMakeFiles/otclient.dir/src/framework/net/inputmessage.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/net/outputmessage.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/net/outputmessage.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/net/outputmessage.cpp
 CMakeFiles/otclient.dir/src/framework/net/outputmessage.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object CMakeFiles/otclient.dir/src/framework/net/outputmessage.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/otclient.dir/src/framework/net/outputmessage.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/net/outputmessage.cpp.o -MF CMakeFiles/otclient.dir/src/framework/net/outputmessage.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/net/outputmessage.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/net/outputmessage.cpp
 
 CMakeFiles/otclient.dir/src/framework/net/outputmessage.cpp.i: cmake_force
@@ -1458,7 +1430,7 @@ CMakeFiles/otclient.dir/src/framework/net/outputmessage.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/net/protocol.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/net/protocol.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/net/protocol.cpp
 CMakeFiles/otclient.dir/src/framework/net/protocol.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object CMakeFiles/otclient.dir/src/framework/net/protocol.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object CMakeFiles/otclient.dir/src/framework/net/protocol.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/net/protocol.cpp.o -MF CMakeFiles/otclient.dir/src/framework/net/protocol.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/net/protocol.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/net/protocol.cpp
 
 CMakeFiles/otclient.dir/src/framework/net/protocol.cpp.i: cmake_force
@@ -1472,7 +1444,7 @@ CMakeFiles/otclient.dir/src/framework/net/protocol.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/net/protocolhttp.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/net/protocolhttp.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/net/protocolhttp.cpp
 CMakeFiles/otclient.dir/src/framework/net/protocolhttp.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object CMakeFiles/otclient.dir/src/framework/net/protocolhttp.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object CMakeFiles/otclient.dir/src/framework/net/protocolhttp.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/net/protocolhttp.cpp.o -MF CMakeFiles/otclient.dir/src/framework/net/protocolhttp.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/net/protocolhttp.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/net/protocolhttp.cpp
 
 CMakeFiles/otclient.dir/src/framework/net/protocolhttp.cpp.i: cmake_force
@@ -1486,7 +1458,7 @@ CMakeFiles/otclient.dir/src/framework/net/protocolhttp.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/net/server.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/net/server.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/net/server.cpp
 CMakeFiles/otclient.dir/src/framework/net/server.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object CMakeFiles/otclient.dir/src/framework/net/server.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object CMakeFiles/otclient.dir/src/framework/net/server.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/net/server.cpp.o -MF CMakeFiles/otclient.dir/src/framework/net/server.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/net/server.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/net/server.cpp
 
 CMakeFiles/otclient.dir/src/framework/net/server.cpp.i: cmake_force
@@ -1500,7 +1472,7 @@ CMakeFiles/otclient.dir/src/framework/net/server.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/xml/tinyxml.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/xml/tinyxml.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/xml/tinyxml.cpp
 CMakeFiles/otclient.dir/src/framework/xml/tinyxml.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object CMakeFiles/otclient.dir/src/framework/xml/tinyxml.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object CMakeFiles/otclient.dir/src/framework/xml/tinyxml.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/xml/tinyxml.cpp.o -MF CMakeFiles/otclient.dir/src/framework/xml/tinyxml.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/xml/tinyxml.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/xml/tinyxml.cpp
 
 CMakeFiles/otclient.dir/src/framework/xml/tinyxml.cpp.i: cmake_force
@@ -1514,7 +1486,7 @@ CMakeFiles/otclient.dir/src/framework/xml/tinyxml.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/xml/tinystr.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/xml/tinystr.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/xml/tinystr.cpp
 CMakeFiles/otclient.dir/src/framework/xml/tinystr.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object CMakeFiles/otclient.dir/src/framework/xml/tinystr.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object CMakeFiles/otclient.dir/src/framework/xml/tinystr.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/xml/tinystr.cpp.o -MF CMakeFiles/otclient.dir/src/framework/xml/tinystr.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/xml/tinystr.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/xml/tinystr.cpp
 
 CMakeFiles/otclient.dir/src/framework/xml/tinystr.cpp.i: cmake_force
@@ -1528,7 +1500,7 @@ CMakeFiles/otclient.dir/src/framework/xml/tinystr.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/xml/tinyxmlerror.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/xml/tinyxmlerror.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/xml/tinyxmlerror.cpp
 CMakeFiles/otclient.dir/src/framework/xml/tinyxmlerror.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object CMakeFiles/otclient.dir/src/framework/xml/tinyxmlerror.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object CMakeFiles/otclient.dir/src/framework/xml/tinyxmlerror.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/xml/tinyxmlerror.cpp.o -MF CMakeFiles/otclient.dir/src/framework/xml/tinyxmlerror.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/xml/tinyxmlerror.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/xml/tinyxmlerror.cpp
 
 CMakeFiles/otclient.dir/src/framework/xml/tinyxmlerror.cpp.i: cmake_force
@@ -1542,7 +1514,7 @@ CMakeFiles/otclient.dir/src/framework/xml/tinyxmlerror.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/framework/xml/tinyxmlparser.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/framework/xml/tinyxmlparser.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/framework/xml/tinyxmlparser.cpp
 CMakeFiles/otclient.dir/src/framework/xml/tinyxmlparser.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building CXX object CMakeFiles/otclient.dir/src/framework/xml/tinyxmlparser.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object CMakeFiles/otclient.dir/src/framework/xml/tinyxmlparser.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/framework/xml/tinyxmlparser.cpp.o -MF CMakeFiles/otclient.dir/src/framework/xml/tinyxmlparser.cpp.o.d -o CMakeFiles/otclient.dir/src/framework/xml/tinyxmlparser.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/framework/xml/tinyxmlparser.cpp
 
 CMakeFiles/otclient.dir/src/framework/xml/tinyxmlparser.cpp.i: cmake_force
@@ -1556,7 +1528,7 @@ CMakeFiles/otclient.dir/src/framework/xml/tinyxmlparser.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/luafunctions.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/luafunctions.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/luafunctions.cpp
 CMakeFiles/otclient.dir/src/client/luafunctions.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building CXX object CMakeFiles/otclient.dir/src/client/luafunctions.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object CMakeFiles/otclient.dir/src/client/luafunctions.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -g0 -Os -MD -MT CMakeFiles/otclient.dir/src/client/luafunctions.cpp.o -MF CMakeFiles/otclient.dir/src/client/luafunctions.cpp.o.d -o CMakeFiles/otclient.dir/src/client/luafunctions.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/luafunctions.cpp
 
 CMakeFiles/otclient.dir/src/client/luafunctions.cpp.i: cmake_force
@@ -1570,7 +1542,7 @@ CMakeFiles/otclient.dir/src/client/luafunctions.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/client.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/client.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/client.cpp
 CMakeFiles/otclient.dir/src/client/client.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building CXX object CMakeFiles/otclient.dir/src/client/client.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building CXX object CMakeFiles/otclient.dir/src/client/client.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/client.cpp.o -MF CMakeFiles/otclient.dir/src/client/client.cpp.o.d -o CMakeFiles/otclient.dir/src/client/client.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/client.cpp
 
 CMakeFiles/otclient.dir/src/client/client.cpp.i: cmake_force
@@ -1584,7 +1556,7 @@ CMakeFiles/otclient.dir/src/client/client.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/animatedtext.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/animatedtext.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/animatedtext.cpp
 CMakeFiles/otclient.dir/src/client/animatedtext.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building CXX object CMakeFiles/otclient.dir/src/client/animatedtext.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building CXX object CMakeFiles/otclient.dir/src/client/animatedtext.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/animatedtext.cpp.o -MF CMakeFiles/otclient.dir/src/client/animatedtext.cpp.o.d -o CMakeFiles/otclient.dir/src/client/animatedtext.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/animatedtext.cpp
 
 CMakeFiles/otclient.dir/src/client/animatedtext.cpp.i: cmake_force
@@ -1598,7 +1570,7 @@ CMakeFiles/otclient.dir/src/client/animatedtext.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/animator.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/animator.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/animator.cpp
 CMakeFiles/otclient.dir/src/client/animator.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building CXX object CMakeFiles/otclient.dir/src/client/animator.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building CXX object CMakeFiles/otclient.dir/src/client/animator.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/animator.cpp.o -MF CMakeFiles/otclient.dir/src/client/animator.cpp.o.d -o CMakeFiles/otclient.dir/src/client/animator.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/animator.cpp
 
 CMakeFiles/otclient.dir/src/client/animator.cpp.i: cmake_force
@@ -1612,7 +1584,7 @@ CMakeFiles/otclient.dir/src/client/animator.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/container.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/container.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/container.cpp
 CMakeFiles/otclient.dir/src/client/container.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object CMakeFiles/otclient.dir/src/client/container.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building CXX object CMakeFiles/otclient.dir/src/client/container.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/container.cpp.o -MF CMakeFiles/otclient.dir/src/client/container.cpp.o.d -o CMakeFiles/otclient.dir/src/client/container.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/container.cpp
 
 CMakeFiles/otclient.dir/src/client/container.cpp.i: cmake_force
@@ -1626,7 +1598,7 @@ CMakeFiles/otclient.dir/src/client/container.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/creature.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/creature.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/creature.cpp
 CMakeFiles/otclient.dir/src/client/creature.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building CXX object CMakeFiles/otclient.dir/src/client/creature.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building CXX object CMakeFiles/otclient.dir/src/client/creature.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/creature.cpp.o -MF CMakeFiles/otclient.dir/src/client/creature.cpp.o.d -o CMakeFiles/otclient.dir/src/client/creature.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/creature.cpp
 
 CMakeFiles/otclient.dir/src/client/creature.cpp.i: cmake_force
@@ -1640,7 +1612,7 @@ CMakeFiles/otclient.dir/src/client/creature.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/effect.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/effect.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/effect.cpp
 CMakeFiles/otclient.dir/src/client/effect.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building CXX object CMakeFiles/otclient.dir/src/client/effect.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object CMakeFiles/otclient.dir/src/client/effect.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/effect.cpp.o -MF CMakeFiles/otclient.dir/src/client/effect.cpp.o.d -o CMakeFiles/otclient.dir/src/client/effect.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/effect.cpp
 
 CMakeFiles/otclient.dir/src/client/effect.cpp.i: cmake_force
@@ -1654,7 +1626,7 @@ CMakeFiles/otclient.dir/src/client/effect.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/game.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/game.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/game.cpp
 CMakeFiles/otclient.dir/src/client/game.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building CXX object CMakeFiles/otclient.dir/src/client/game.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building CXX object CMakeFiles/otclient.dir/src/client/game.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/game.cpp.o -MF CMakeFiles/otclient.dir/src/client/game.cpp.o.d -o CMakeFiles/otclient.dir/src/client/game.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/game.cpp
 
 CMakeFiles/otclient.dir/src/client/game.cpp.i: cmake_force
@@ -1668,7 +1640,7 @@ CMakeFiles/otclient.dir/src/client/game.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/shadermanager.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/shadermanager.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/shadermanager.cpp
 CMakeFiles/otclient.dir/src/client/shadermanager.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building CXX object CMakeFiles/otclient.dir/src/client/shadermanager.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building CXX object CMakeFiles/otclient.dir/src/client/shadermanager.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/shadermanager.cpp.o -MF CMakeFiles/otclient.dir/src/client/shadermanager.cpp.o.d -o CMakeFiles/otclient.dir/src/client/shadermanager.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/shadermanager.cpp
 
 CMakeFiles/otclient.dir/src/client/shadermanager.cpp.i: cmake_force
@@ -1682,7 +1654,7 @@ CMakeFiles/otclient.dir/src/client/shadermanager.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/item.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/item.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/item.cpp
 CMakeFiles/otclient.dir/src/client/item.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building CXX object CMakeFiles/otclient.dir/src/client/item.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building CXX object CMakeFiles/otclient.dir/src/client/item.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/item.cpp.o -MF CMakeFiles/otclient.dir/src/client/item.cpp.o.d -o CMakeFiles/otclient.dir/src/client/item.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/item.cpp
 
 CMakeFiles/otclient.dir/src/client/item.cpp.i: cmake_force
@@ -1696,7 +1668,7 @@ CMakeFiles/otclient.dir/src/client/item.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/localplayer.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/localplayer.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/localplayer.cpp
 CMakeFiles/otclient.dir/src/client/localplayer.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object CMakeFiles/otclient.dir/src/client/localplayer.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building CXX object CMakeFiles/otclient.dir/src/client/localplayer.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/localplayer.cpp.o -MF CMakeFiles/otclient.dir/src/client/localplayer.cpp.o.d -o CMakeFiles/otclient.dir/src/client/localplayer.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/localplayer.cpp
 
 CMakeFiles/otclient.dir/src/client/localplayer.cpp.i: cmake_force
@@ -1710,7 +1682,7 @@ CMakeFiles/otclient.dir/src/client/localplayer.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/map.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/map.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/map.cpp
 CMakeFiles/otclient.dir/src/client/map.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object CMakeFiles/otclient.dir/src/client/map.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building CXX object CMakeFiles/otclient.dir/src/client/map.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/map.cpp.o -MF CMakeFiles/otclient.dir/src/client/map.cpp.o.d -o CMakeFiles/otclient.dir/src/client/map.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/map.cpp
 
 CMakeFiles/otclient.dir/src/client/map.cpp.i: cmake_force
@@ -1724,7 +1696,7 @@ CMakeFiles/otclient.dir/src/client/map.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/mapio.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/mapio.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/mapio.cpp
 CMakeFiles/otclient.dir/src/client/mapio.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object CMakeFiles/otclient.dir/src/client/mapio.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object CMakeFiles/otclient.dir/src/client/mapio.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/mapio.cpp.o -MF CMakeFiles/otclient.dir/src/client/mapio.cpp.o.d -o CMakeFiles/otclient.dir/src/client/mapio.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/mapio.cpp
 
 CMakeFiles/otclient.dir/src/client/mapio.cpp.i: cmake_force
@@ -1738,7 +1710,7 @@ CMakeFiles/otclient.dir/src/client/mapio.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/mapview.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/mapview.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/mapview.cpp
 CMakeFiles/otclient.dir/src/client/mapview.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object CMakeFiles/otclient.dir/src/client/mapview.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object CMakeFiles/otclient.dir/src/client/mapview.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/mapview.cpp.o -MF CMakeFiles/otclient.dir/src/client/mapview.cpp.o.d -o CMakeFiles/otclient.dir/src/client/mapview.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/mapview.cpp
 
 CMakeFiles/otclient.dir/src/client/mapview.cpp.i: cmake_force
@@ -1752,7 +1724,7 @@ CMakeFiles/otclient.dir/src/client/mapview.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/minimap.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/minimap.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/minimap.cpp
 CMakeFiles/otclient.dir/src/client/minimap.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object CMakeFiles/otclient.dir/src/client/minimap.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object CMakeFiles/otclient.dir/src/client/minimap.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/minimap.cpp.o -MF CMakeFiles/otclient.dir/src/client/minimap.cpp.o.d -o CMakeFiles/otclient.dir/src/client/minimap.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/minimap.cpp
 
 CMakeFiles/otclient.dir/src/client/minimap.cpp.i: cmake_force
@@ -1766,7 +1738,7 @@ CMakeFiles/otclient.dir/src/client/minimap.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/lightview.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/lightview.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/lightview.cpp
 CMakeFiles/otclient.dir/src/client/lightview.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building CXX object CMakeFiles/otclient.dir/src/client/lightview.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object CMakeFiles/otclient.dir/src/client/lightview.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/lightview.cpp.o -MF CMakeFiles/otclient.dir/src/client/lightview.cpp.o.d -o CMakeFiles/otclient.dir/src/client/lightview.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/lightview.cpp
 
 CMakeFiles/otclient.dir/src/client/lightview.cpp.i: cmake_force
@@ -1780,7 +1752,7 @@ CMakeFiles/otclient.dir/src/client/lightview.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/missile.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/missile.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/missile.cpp
 CMakeFiles/otclient.dir/src/client/missile.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object CMakeFiles/otclient.dir/src/client/missile.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object CMakeFiles/otclient.dir/src/client/missile.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/missile.cpp.o -MF CMakeFiles/otclient.dir/src/client/missile.cpp.o.d -o CMakeFiles/otclient.dir/src/client/missile.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/missile.cpp
 
 CMakeFiles/otclient.dir/src/client/missile.cpp.i: cmake_force
@@ -1794,7 +1766,7 @@ CMakeFiles/otclient.dir/src/client/missile.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/outfit.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/outfit.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/outfit.cpp
 CMakeFiles/otclient.dir/src/client/outfit.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/otclient.dir/src/client/outfit.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building CXX object CMakeFiles/otclient.dir/src/client/outfit.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/outfit.cpp.o -MF CMakeFiles/otclient.dir/src/client/outfit.cpp.o.d -o CMakeFiles/otclient.dir/src/client/outfit.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/outfit.cpp
 
 CMakeFiles/otclient.dir/src/client/outfit.cpp.i: cmake_force
@@ -1808,7 +1780,7 @@ CMakeFiles/otclient.dir/src/client/outfit.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/player.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/player.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/player.cpp
 CMakeFiles/otclient.dir/src/client/player.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object CMakeFiles/otclient.dir/src/client/player.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object CMakeFiles/otclient.dir/src/client/player.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/player.cpp.o -MF CMakeFiles/otclient.dir/src/client/player.cpp.o.d -o CMakeFiles/otclient.dir/src/client/player.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/player.cpp
 
 CMakeFiles/otclient.dir/src/client/player.cpp.i: cmake_force
@@ -1822,7 +1794,7 @@ CMakeFiles/otclient.dir/src/client/player.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/spritemanager.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/spritemanager.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/spritemanager.cpp
 CMakeFiles/otclient.dir/src/client/spritemanager.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object CMakeFiles/otclient.dir/src/client/spritemanager.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/otclient.dir/src/client/spritemanager.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/spritemanager.cpp.o -MF CMakeFiles/otclient.dir/src/client/spritemanager.cpp.o.d -o CMakeFiles/otclient.dir/src/client/spritemanager.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/spritemanager.cpp
 
 CMakeFiles/otclient.dir/src/client/spritemanager.cpp.i: cmake_force
@@ -1836,7 +1808,7 @@ CMakeFiles/otclient.dir/src/client/spritemanager.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/statictext.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/statictext.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/statictext.cpp
 CMakeFiles/otclient.dir/src/client/statictext.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object CMakeFiles/otclient.dir/src/client/statictext.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object CMakeFiles/otclient.dir/src/client/statictext.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/statictext.cpp.o -MF CMakeFiles/otclient.dir/src/client/statictext.cpp.o.d -o CMakeFiles/otclient.dir/src/client/statictext.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/statictext.cpp
 
 CMakeFiles/otclient.dir/src/client/statictext.cpp.i: cmake_force
@@ -1850,7 +1822,7 @@ CMakeFiles/otclient.dir/src/client/statictext.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/thing.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/thing.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/thing.cpp
 CMakeFiles/otclient.dir/src/client/thing.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object CMakeFiles/otclient.dir/src/client/thing.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object CMakeFiles/otclient.dir/src/client/thing.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/thing.cpp.o -MF CMakeFiles/otclient.dir/src/client/thing.cpp.o.d -o CMakeFiles/otclient.dir/src/client/thing.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/thing.cpp
 
 CMakeFiles/otclient.dir/src/client/thing.cpp.i: cmake_force
@@ -1864,7 +1836,7 @@ CMakeFiles/otclient.dir/src/client/thing.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/thingtypemanager.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/thingtypemanager.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/thingtypemanager.cpp
 CMakeFiles/otclient.dir/src/client/thingtypemanager.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building CXX object CMakeFiles/otclient.dir/src/client/thingtypemanager.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object CMakeFiles/otclient.dir/src/client/thingtypemanager.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/thingtypemanager.cpp.o -MF CMakeFiles/otclient.dir/src/client/thingtypemanager.cpp.o.d -o CMakeFiles/otclient.dir/src/client/thingtypemanager.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/thingtypemanager.cpp
 
 CMakeFiles/otclient.dir/src/client/thingtypemanager.cpp.i: cmake_force
@@ -1878,7 +1850,7 @@ CMakeFiles/otclient.dir/src/client/thingtypemanager.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/thingtype.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/thingtype.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/thingtype.cpp
 CMakeFiles/otclient.dir/src/client/thingtype.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building CXX object CMakeFiles/otclient.dir/src/client/thingtype.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object CMakeFiles/otclient.dir/src/client/thingtype.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/thingtype.cpp.o -MF CMakeFiles/otclient.dir/src/client/thingtype.cpp.o.d -o CMakeFiles/otclient.dir/src/client/thingtype.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/thingtype.cpp
 
 CMakeFiles/otclient.dir/src/client/thingtype.cpp.i: cmake_force
@@ -1892,7 +1864,7 @@ CMakeFiles/otclient.dir/src/client/thingtype.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/itemtype.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/itemtype.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/itemtype.cpp
 CMakeFiles/otclient.dir/src/client/itemtype.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building CXX object CMakeFiles/otclient.dir/src/client/itemtype.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building CXX object CMakeFiles/otclient.dir/src/client/itemtype.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/itemtype.cpp.o -MF CMakeFiles/otclient.dir/src/client/itemtype.cpp.o.d -o CMakeFiles/otclient.dir/src/client/itemtype.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/itemtype.cpp
 
 CMakeFiles/otclient.dir/src/client/itemtype.cpp.i: cmake_force
@@ -1906,7 +1878,7 @@ CMakeFiles/otclient.dir/src/client/itemtype.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/tile.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/tile.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/tile.cpp
 CMakeFiles/otclient.dir/src/client/tile.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object CMakeFiles/otclient.dir/src/client/tile.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building CXX object CMakeFiles/otclient.dir/src/client/tile.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/tile.cpp.o -MF CMakeFiles/otclient.dir/src/client/tile.cpp.o.d -o CMakeFiles/otclient.dir/src/client/tile.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/tile.cpp
 
 CMakeFiles/otclient.dir/src/client/tile.cpp.i: cmake_force
@@ -1920,7 +1892,7 @@ CMakeFiles/otclient.dir/src/client/tile.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/houses.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/houses.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/houses.cpp
 CMakeFiles/otclient.dir/src/client/houses.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building CXX object CMakeFiles/otclient.dir/src/client/houses.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building CXX object CMakeFiles/otclient.dir/src/client/houses.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/houses.cpp.o -MF CMakeFiles/otclient.dir/src/client/houses.cpp.o.d -o CMakeFiles/otclient.dir/src/client/houses.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/houses.cpp
 
 CMakeFiles/otclient.dir/src/client/houses.cpp.i: cmake_force
@@ -1934,7 +1906,7 @@ CMakeFiles/otclient.dir/src/client/houses.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/towns.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/towns.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/towns.cpp
 CMakeFiles/otclient.dir/src/client/towns.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building CXX object CMakeFiles/otclient.dir/src/client/towns.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object CMakeFiles/otclient.dir/src/client/towns.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/towns.cpp.o -MF CMakeFiles/otclient.dir/src/client/towns.cpp.o.d -o CMakeFiles/otclient.dir/src/client/towns.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/towns.cpp
 
 CMakeFiles/otclient.dir/src/client/towns.cpp.i: cmake_force
@@ -1948,7 +1920,7 @@ CMakeFiles/otclient.dir/src/client/towns.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/creatures.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/creatures.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/creatures.cpp
 CMakeFiles/otclient.dir/src/client/creatures.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building CXX object CMakeFiles/otclient.dir/src/client/creatures.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building CXX object CMakeFiles/otclient.dir/src/client/creatures.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/creatures.cpp.o -MF CMakeFiles/otclient.dir/src/client/creatures.cpp.o.d -o CMakeFiles/otclient.dir/src/client/creatures.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/creatures.cpp
 
 CMakeFiles/otclient.dir/src/client/creatures.cpp.i: cmake_force
@@ -1962,7 +1934,7 @@ CMakeFiles/otclient.dir/src/client/creatures.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/luavaluecasts.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/luavaluecasts.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/luavaluecasts.cpp
 CMakeFiles/otclient.dir/src/client/luavaluecasts.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building CXX object CMakeFiles/otclient.dir/src/client/luavaluecasts.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building CXX object CMakeFiles/otclient.dir/src/client/luavaluecasts.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/luavaluecasts.cpp.o -MF CMakeFiles/otclient.dir/src/client/luavaluecasts.cpp.o.d -o CMakeFiles/otclient.dir/src/client/luavaluecasts.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/luavaluecasts.cpp
 
 CMakeFiles/otclient.dir/src/client/luavaluecasts.cpp.i: cmake_force
@@ -1976,7 +1948,7 @@ CMakeFiles/otclient.dir/src/client/luavaluecasts.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/protocolcodes.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/protocolcodes.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/protocolcodes.cpp
 CMakeFiles/otclient.dir/src/client/protocolcodes.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building CXX object CMakeFiles/otclient.dir/src/client/protocolcodes.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building CXX object CMakeFiles/otclient.dir/src/client/protocolcodes.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/protocolcodes.cpp.o -MF CMakeFiles/otclient.dir/src/client/protocolcodes.cpp.o.d -o CMakeFiles/otclient.dir/src/client/protocolcodes.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/protocolcodes.cpp
 
 CMakeFiles/otclient.dir/src/client/protocolcodes.cpp.i: cmake_force
@@ -1990,7 +1962,7 @@ CMakeFiles/otclient.dir/src/client/protocolcodes.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/protocolgame.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/protocolgame.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/protocolgame.cpp
 CMakeFiles/otclient.dir/src/client/protocolgame.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building CXX object CMakeFiles/otclient.dir/src/client/protocolgame.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building CXX object CMakeFiles/otclient.dir/src/client/protocolgame.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/protocolgame.cpp.o -MF CMakeFiles/otclient.dir/src/client/protocolgame.cpp.o.d -o CMakeFiles/otclient.dir/src/client/protocolgame.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/protocolgame.cpp
 
 CMakeFiles/otclient.dir/src/client/protocolgame.cpp.i: cmake_force
@@ -2004,7 +1976,7 @@ CMakeFiles/otclient.dir/src/client/protocolgame.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/protocolgameparse.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/protocolgameparse.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/protocolgameparse.cpp
 CMakeFiles/otclient.dir/src/client/protocolgameparse.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building CXX object CMakeFiles/otclient.dir/src/client/protocolgameparse.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building CXX object CMakeFiles/otclient.dir/src/client/protocolgameparse.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/protocolgameparse.cpp.o -MF CMakeFiles/otclient.dir/src/client/protocolgameparse.cpp.o.d -o CMakeFiles/otclient.dir/src/client/protocolgameparse.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/protocolgameparse.cpp
 
 CMakeFiles/otclient.dir/src/client/protocolgameparse.cpp.i: cmake_force
@@ -2018,7 +1990,7 @@ CMakeFiles/otclient.dir/src/client/protocolgameparse.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/protocolgamesend.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/protocolgamesend.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/protocolgamesend.cpp
 CMakeFiles/otclient.dir/src/client/protocolgamesend.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building CXX object CMakeFiles/otclient.dir/src/client/protocolgamesend.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building CXX object CMakeFiles/otclient.dir/src/client/protocolgamesend.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/protocolgamesend.cpp.o -MF CMakeFiles/otclient.dir/src/client/protocolgamesend.cpp.o.d -o CMakeFiles/otclient.dir/src/client/protocolgamesend.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/protocolgamesend.cpp
 
 CMakeFiles/otclient.dir/src/client/protocolgamesend.cpp.i: cmake_force
@@ -2032,7 +2004,7 @@ CMakeFiles/otclient.dir/src/client/protocolgamesend.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/uicreature.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/uicreature.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/uicreature.cpp
 CMakeFiles/otclient.dir/src/client/uicreature.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building CXX object CMakeFiles/otclient.dir/src/client/uicreature.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building CXX object CMakeFiles/otclient.dir/src/client/uicreature.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/uicreature.cpp.o -MF CMakeFiles/otclient.dir/src/client/uicreature.cpp.o.d -o CMakeFiles/otclient.dir/src/client/uicreature.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/uicreature.cpp
 
 CMakeFiles/otclient.dir/src/client/uicreature.cpp.i: cmake_force
@@ -2046,7 +2018,7 @@ CMakeFiles/otclient.dir/src/client/uicreature.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/uiitem.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/uiitem.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/uiitem.cpp
 CMakeFiles/otclient.dir/src/client/uiitem.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building CXX object CMakeFiles/otclient.dir/src/client/uiitem.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building CXX object CMakeFiles/otclient.dir/src/client/uiitem.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/uiitem.cpp.o -MF CMakeFiles/otclient.dir/src/client/uiitem.cpp.o.d -o CMakeFiles/otclient.dir/src/client/uiitem.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/uiitem.cpp
 
 CMakeFiles/otclient.dir/src/client/uiitem.cpp.i: cmake_force
@@ -2060,7 +2032,7 @@ CMakeFiles/otclient.dir/src/client/uiitem.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/uimap.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/uimap.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/uimap.cpp
 CMakeFiles/otclient.dir/src/client/uimap.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building CXX object CMakeFiles/otclient.dir/src/client/uimap.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building CXX object CMakeFiles/otclient.dir/src/client/uimap.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/uimap.cpp.o -MF CMakeFiles/otclient.dir/src/client/uimap.cpp.o.d -o CMakeFiles/otclient.dir/src/client/uimap.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/uimap.cpp
 
 CMakeFiles/otclient.dir/src/client/uimap.cpp.i: cmake_force
@@ -2074,7 +2046,7 @@ CMakeFiles/otclient.dir/src/client/uimap.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/uiminimap.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/uiminimap.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/uiminimap.cpp
 CMakeFiles/otclient.dir/src/client/uiminimap.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building CXX object CMakeFiles/otclient.dir/src/client/uiminimap.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building CXX object CMakeFiles/otclient.dir/src/client/uiminimap.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/uiminimap.cpp.o -MF CMakeFiles/otclient.dir/src/client/uiminimap.cpp.o.d -o CMakeFiles/otclient.dir/src/client/uiminimap.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/uiminimap.cpp
 
 CMakeFiles/otclient.dir/src/client/uiminimap.cpp.i: cmake_force
@@ -2088,7 +2060,7 @@ CMakeFiles/otclient.dir/src/client/uiminimap.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/uiprogressrect.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/uiprogressrect.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/uiprogressrect.cpp
 CMakeFiles/otclient.dir/src/client/uiprogressrect.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building CXX object CMakeFiles/otclient.dir/src/client/uiprogressrect.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building CXX object CMakeFiles/otclient.dir/src/client/uiprogressrect.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/uiprogressrect.cpp.o -MF CMakeFiles/otclient.dir/src/client/uiprogressrect.cpp.o.d -o CMakeFiles/otclient.dir/src/client/uiprogressrect.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/uiprogressrect.cpp
 
 CMakeFiles/otclient.dir/src/client/uiprogressrect.cpp.i: cmake_force
@@ -2102,7 +2074,7 @@ CMakeFiles/otclient.dir/src/client/uiprogressrect.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/uimapanchorlayout.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/uimapanchorlayout.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/uimapanchorlayout.cpp
 CMakeFiles/otclient.dir/src/client/uimapanchorlayout.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building CXX object CMakeFiles/otclient.dir/src/client/uimapanchorlayout.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building CXX object CMakeFiles/otclient.dir/src/client/uimapanchorlayout.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/uimapanchorlayout.cpp.o -MF CMakeFiles/otclient.dir/src/client/uimapanchorlayout.cpp.o.d -o CMakeFiles/otclient.dir/src/client/uimapanchorlayout.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/uimapanchorlayout.cpp
 
 CMakeFiles/otclient.dir/src/client/uimapanchorlayout.cpp.i: cmake_force
@@ -2116,7 +2088,7 @@ CMakeFiles/otclient.dir/src/client/uimapanchorlayout.cpp.s: cmake_force
 CMakeFiles/otclient.dir/src/client/uisprite.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/client/uisprite.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/client/uisprite.cpp
 CMakeFiles/otclient.dir/src/client/uisprite.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building CXX object CMakeFiles/otclient.dir/src/client/uisprite.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building CXX object CMakeFiles/otclient.dir/src/client/uisprite.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/client/uisprite.cpp.o -MF CMakeFiles/otclient.dir/src/client/uisprite.cpp.o.d -o CMakeFiles/otclient.dir/src/client/uisprite.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/client/uisprite.cpp
 
 CMakeFiles/otclient.dir/src/client/uisprite.cpp.i: cmake_force
@@ -2127,10 +2099,122 @@ CMakeFiles/otclient.dir/src/client/uisprite.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient.dir/src/client/uisprite.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/client/uisprite.cpp -o CMakeFiles/otclient.dir/src/client/uisprite.cpp.s
 
+CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.o: CMakeFiles/otclient.dir/flags.make
+CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_init.cpp
+CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building CXX object CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.o -MF CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.o.d -o CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_init.cpp
+
+CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_init.cpp > CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.i
+
+CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_init.cpp -o CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.s
+
+CMakeFiles/otclient.dir/src/cef/core/cef_app.cpp.o: CMakeFiles/otclient.dir/flags.make
+CMakeFiles/otclient.dir/src/cef/core/cef_app.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_app.cpp
+CMakeFiles/otclient.dir/src/cef/core/cef_app.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building CXX object CMakeFiles/otclient.dir/src/cef/core/cef_app.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/cef/core/cef_app.cpp.o -MF CMakeFiles/otclient.dir/src/cef/core/cef_app.cpp.o.d -o CMakeFiles/otclient.dir/src/cef/core/cef_app.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_app.cpp
+
+CMakeFiles/otclient.dir/src/cef/core/cef_app.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/otclient.dir/src/cef/core/cef_app.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_app.cpp > CMakeFiles/otclient.dir/src/cef/core/cef_app.cpp.i
+
+CMakeFiles/otclient.dir/src/cef/core/cef_app.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient.dir/src/cef/core/cef_app.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_app.cpp -o CMakeFiles/otclient.dir/src/cef/core/cef_app.cpp.s
+
+CMakeFiles/otclient.dir/src/cef/core/cef_helper.cpp.o: CMakeFiles/otclient.dir/flags.make
+CMakeFiles/otclient.dir/src/cef/core/cef_helper.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_helper.cpp
+CMakeFiles/otclient.dir/src/cef/core/cef_helper.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building CXX object CMakeFiles/otclient.dir/src/cef/core/cef_helper.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/cef/core/cef_helper.cpp.o -MF CMakeFiles/otclient.dir/src/cef/core/cef_helper.cpp.o.d -o CMakeFiles/otclient.dir/src/cef/core/cef_helper.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_helper.cpp
+
+CMakeFiles/otclient.dir/src/cef/core/cef_helper.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/otclient.dir/src/cef/core/cef_helper.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_helper.cpp > CMakeFiles/otclient.dir/src/cef/core/cef_helper.cpp.i
+
+CMakeFiles/otclient.dir/src/cef/core/cef_helper.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient.dir/src/cef/core/cef_helper.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_helper.cpp -o CMakeFiles/otclient.dir/src/cef/core/cef_helper.cpp.s
+
+CMakeFiles/otclient.dir/src/cef/core/cef_config.cpp.o: CMakeFiles/otclient.dir/flags.make
+CMakeFiles/otclient.dir/src/cef/core/cef_config.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_config.cpp
+CMakeFiles/otclient.dir/src/cef/core/cef_config.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building CXX object CMakeFiles/otclient.dir/src/cef/core/cef_config.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/cef/core/cef_config.cpp.o -MF CMakeFiles/otclient.dir/src/cef/core/cef_config.cpp.o.d -o CMakeFiles/otclient.dir/src/cef/core/cef_config.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_config.cpp
+
+CMakeFiles/otclient.dir/src/cef/core/cef_config.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/otclient.dir/src/cef/core/cef_config.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_config.cpp > CMakeFiles/otclient.dir/src/cef/core/cef_config.cpp.i
+
+CMakeFiles/otclient.dir/src/cef/core/cef_config.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient.dir/src/cef/core/cef_config.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_config.cpp -o CMakeFiles/otclient.dir/src/cef/core/cef_config.cpp.s
+
+CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.o: CMakeFiles/otclient.dir/flags.make
+CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_conflinux.cpp
+CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building CXX object CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.o -MF CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.o.d -o CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_conflinux.cpp
+
+CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_conflinux.cpp > CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.i
+
+CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_conflinux.cpp -o CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.s
+
+CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o: CMakeFiles/otclient.dir/flags.make
+CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/cef/ui/uicefwebview.cpp
+CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building CXX object CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o -MF CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o.d -o CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/cef/ui/uicefwebview.cpp
+
+CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leandro/darghos/otclient-dev/edubart/src/cef/ui/uicefwebview.cpp > CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.i
+
+CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/cef/ui/uicefwebview.cpp -o CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.s
+
+CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.o: CMakeFiles/otclient.dir/flags.make
+CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/cef/ui/cef_inputhandler.cpp
+CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building CXX object CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.o -MF CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.o.d -o CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/cef/ui/cef_inputhandler.cpp
+
+CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leandro/darghos/otclient-dev/edubart/src/cef/ui/cef_inputhandler.cpp > CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.i
+
+CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/cef/ui/cef_inputhandler.cpp -o CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.s
+
+CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.o: CMakeFiles/otclient.dir/flags.make
+CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/cef/resources/cefphysfsresourcehandler.cpp
+CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building CXX object CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.o -MF CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.o.d -o CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/cef/resources/cefphysfsresourcehandler.cpp
+
+CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leandro/darghos/otclient-dev/edubart/src/cef/resources/cefphysfsresourcehandler.cpp > CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.i
+
+CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leandro/darghos/otclient-dev/edubart/src/cef/resources/cefphysfsresourcehandler.cpp -o CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.s
+
 CMakeFiles/otclient.dir/src/main.cpp.o: CMakeFiles/otclient.dir/flags.make
 CMakeFiles/otclient.dir/src/main.cpp.o: /home/leandro/darghos/otclient-dev/edubart/src/main.cpp
 CMakeFiles/otclient.dir/src/main.cpp.o: CMakeFiles/otclient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building CXX object CMakeFiles/otclient.dir/src/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building CXX object CMakeFiles/otclient.dir/src/main.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/otclient.dir/src/main.cpp.o -MF CMakeFiles/otclient.dir/src/main.cpp.o.d -o CMakeFiles/otclient.dir/src/main.cpp.o -c /home/leandro/darghos/otclient-dev/edubart/src/main.cpp
 
 CMakeFiles/otclient.dir/src/main.cpp.i: cmake_force
@@ -2224,8 +2308,6 @@ otclient_OBJECTS = \
 "CMakeFiles/otclient.dir/src/framework/ui/uiwidgetimage.cpp.o" \
 "CMakeFiles/otclient.dir/src/framework/ui/uiwidgettext.cpp.o" \
 "CMakeFiles/otclient.dir/src/framework/ui/uiwebview.cpp.o" \
-"CMakeFiles/otclient.dir/src/framework/ui/uicefwebview.cpp.o" \
-"CMakeFiles/otclient.dir/src/framework/ui/cefphysfsresourcehandler.cpp.o" \
 "CMakeFiles/otclient.dir/src/framework/platform/platformwindow.cpp.o" \
 "CMakeFiles/otclient.dir/src/framework/platform/win32window.cpp.o" \
 "CMakeFiles/otclient.dir/src/framework/platform/x11window.cpp.o" \
@@ -2290,6 +2372,14 @@ otclient_OBJECTS = \
 "CMakeFiles/otclient.dir/src/client/uiprogressrect.cpp.o" \
 "CMakeFiles/otclient.dir/src/client/uimapanchorlayout.cpp.o" \
 "CMakeFiles/otclient.dir/src/client/uisprite.cpp.o" \
+"CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.o" \
+"CMakeFiles/otclient.dir/src/cef/core/cef_app.cpp.o" \
+"CMakeFiles/otclient.dir/src/cef/core/cef_helper.cpp.o" \
+"CMakeFiles/otclient.dir/src/cef/core/cef_config.cpp.o" \
+"CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.o" \
+"CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o" \
+"CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.o" \
+"CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.o" \
 "CMakeFiles/otclient.dir/src/main.cpp.o"
 
 # External object files for target otclient
@@ -2376,8 +2466,6 @@ otclient: CMakeFiles/otclient.dir/src/framework/ui/uiwidget.cpp.o
 otclient: CMakeFiles/otclient.dir/src/framework/ui/uiwidgetimage.cpp.o
 otclient: CMakeFiles/otclient.dir/src/framework/ui/uiwidgettext.cpp.o
 otclient: CMakeFiles/otclient.dir/src/framework/ui/uiwebview.cpp.o
-otclient: CMakeFiles/otclient.dir/src/framework/ui/uicefwebview.cpp.o
-otclient: CMakeFiles/otclient.dir/src/framework/ui/cefphysfsresourcehandler.cpp.o
 otclient: CMakeFiles/otclient.dir/src/framework/platform/platformwindow.cpp.o
 otclient: CMakeFiles/otclient.dir/src/framework/platform/win32window.cpp.o
 otclient: CMakeFiles/otclient.dir/src/framework/platform/x11window.cpp.o
@@ -2442,6 +2530,14 @@ otclient: CMakeFiles/otclient.dir/src/client/uiminimap.cpp.o
 otclient: CMakeFiles/otclient.dir/src/client/uiprogressrect.cpp.o
 otclient: CMakeFiles/otclient.dir/src/client/uimapanchorlayout.cpp.o
 otclient: CMakeFiles/otclient.dir/src/client/uisprite.cpp.o
+otclient: CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.o
+otclient: CMakeFiles/otclient.dir/src/cef/core/cef_app.cpp.o
+otclient: CMakeFiles/otclient.dir/src/cef/core/cef_helper.cpp.o
+otclient: CMakeFiles/otclient.dir/src/cef/core/cef_config.cpp.o
+otclient: CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.o
+otclient: CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o
+otclient: CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.o
+otclient: CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.o
 otclient: CMakeFiles/otclient.dir/src/main.cpp.o
 otclient: CMakeFiles/otclient.dir/build.make
 otclient: /usr/lib/x86_64-linux-gnu/libopenal.so
@@ -2465,7 +2561,7 @@ otclient: /home/leandro/darghos/otclient-dev/edubart/cef/libcef.so
 otclient: /home/leandro/darghos/otclient-dev/edubart/cef/libcef_dll_wrapper.a
 otclient: /usr/lib/x86_64-linux-gnu/libboost_atomic.a
 otclient: CMakeFiles/otclient.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Linking CXX executable otclient"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Linking CXX executable otclient"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/otclient.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -8,7 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/leandro/darghos/otclient-dev/edubart/src/cef_subprocess/main.cpp" "CMakeFiles/otclient_cef_subproc.dir/src/cef_subprocess/main.cpp.o" "gcc" "CMakeFiles/otclient_cef_subproc.dir/src/cef_subprocess/main.cpp.o.d"
+  "/home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_app.cpp" "CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_app.cpp.o" "gcc" "CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_app.cpp.o.d"
+  "/home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_config.cpp" "CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_config.cpp.o" "gcc" "CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_config.cpp.o.d"
+  "/home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_conflinux.cpp" "CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_conflinux.cpp.o" "gcc" "CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_conflinux.cpp.o.d"
+  "/home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_helper.cpp" "CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_helper.cpp.o" "gcc" "CMakeFiles/otclient_cef_subproc.dir/src/cef/core/cef_helper.cpp.o.d"
+  "/home/leandro/darghos/otclient-dev/edubart/src/cef/subprocess/main.cpp" "CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.o" "gcc" "CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
