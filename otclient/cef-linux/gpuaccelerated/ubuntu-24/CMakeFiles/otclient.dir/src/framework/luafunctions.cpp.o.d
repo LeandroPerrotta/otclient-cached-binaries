@@ -1283,38 +1283,8 @@ CMakeFiles/otclient.dir/src/framework/luafunctions.cpp.o: \
  /home/leandro/.local/share/otclient-cef/include/cef_cookie.h \
  /home/leandro/.local/share/otclient-cef/include/cef_media_router.h \
  /home/leandro/.local/share/otclient-cef/include/cef_preference.h \
- /home/leandro/.local/share/otclient-cef/include/cef_client.h \
- /home/leandro/.local/share/otclient-cef/include/cef_audio_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_command_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_context_menu_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_menu_model.h \
- /home/leandro/.local/share/otclient-cef/include/cef_menu_model_delegate.h \
- /home/leandro/.local/share/otclient-cef/include/cef_dialog_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_display_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_download_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_download_item.h \
- /home/leandro/.local/share/otclient-cef/include/cef_drag_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_find_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_focus_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_frame_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_jsdialog_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_keyboard_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_life_span_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_load_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_permission_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_print_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_print_settings.h \
  /home/leandro/.local/share/otclient-cef/include/cef_render_handler.h \
  /home/leandro/.local/share/otclient-cef/include/cef_accessibility_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_request_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_auth_callback.h \
- /home/leandro/.local/share/otclient-cef/include/cef_resource_request_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_resource_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_response.h \
- /home/leandro/.local/share/otclient-cef/include/cef_response_filter.h \
- /home/leandro/.local/share/otclient-cef/include/cef_ssl_info.h \
- /home/leandro/.local/share/otclient-cef/include/cef_unresponsive_process_callback.h \
- /workspace/otclient/src/framework/../cef/ui/../graphics/cef_renderer.h \
  /workspace/otclient/src/framework/../framework/input/mouse.h \
  /workspace/otclient/src/framework/../framework/net/server.h \
  /workspace/otclient/src/framework/../framework/net/declarations.h \

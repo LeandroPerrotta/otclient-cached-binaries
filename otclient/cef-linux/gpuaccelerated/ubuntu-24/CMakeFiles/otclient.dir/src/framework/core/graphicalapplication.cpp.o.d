@@ -1271,5 +1271,4 @@ CMakeFiles/otclient.dir/src/framework/core/graphicalapplication.cpp.o: \
  /home/leandro/.local/share/otclient-cef/include/cef_scheme.h \
  /workspace/otclient/src/framework/../cef/ui/uicefwebview.h \
  /workspace/otclient/src/framework/../framework/ui/uiwidget.h \
- /workspace/otclient/src/framework/../framework/ui/declarations.h \
- /workspace/otclient/src/framework/../cef/ui/../graphics/cef_renderer.h
+ /workspace/otclient/src/framework/../framework/ui/declarations.h

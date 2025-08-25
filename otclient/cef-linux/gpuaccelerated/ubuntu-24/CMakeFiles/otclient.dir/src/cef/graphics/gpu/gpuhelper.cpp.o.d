@@ -21,9 +21,10 @@ CMakeFiles/otclient.dir/src/cef/graphics/gpu/gpuhelper.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
  /usr/include/EGL/eglext.h \
- /workspace/otclient/src/framework/../framework/global.h \
- /workspace/otclient/src/framework/../framework/stdext/compiler.h \
- /workspace/otclient/src/framework/../framework/pch.h \
+ /workspace/otclient/src/framework/../framework/core/logger.h \
+ /workspace/otclient/src/framework/../framework/core/../global.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/compiler.h \
+ /workspace/otclient/src/framework/../framework/core/../pch.h \
  /usr/include/c++/14/cstdio \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/os_defines.h \
@@ -233,38 +234,37 @@ CMakeFiles/otclient.dir/src/cef/graphics/gpu/gpuhelper.cpp.o: \
  /usr/include/c++/14/bits/locale_facets_nonio.tcc \
  /usr/include/c++/14/bits/locale_conv.h \
  /usr/include/c++/14/bits/quoted_string.h \
- /workspace/otclient/src/framework/../framework/const.h \
- /workspace/otclient/src/framework/../framework/stdext/stdext.h \
- /workspace/otclient/src/framework/../framework/stdext/any.h \
- /workspace/otclient/src/framework/../framework/stdext/boolean.h \
- /workspace/otclient/src/framework/../framework/stdext/cast.h \
- /workspace/otclient/src/framework/../framework/stdext/exception.h \
- /workspace/otclient/src/framework/../framework/stdext/demangle.h \
- /workspace/otclient/src/framework/../framework/stdext/compiler.h \
- /workspace/otclient/src/framework/../framework/stdext/dumper.h \
- /workspace/otclient/src/framework/../framework/stdext/dynamic_storage.h \
- /workspace/otclient/src/framework/../framework/stdext/types.h \
+ /workspace/otclient/src/framework/../framework/core/../const.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/stdext.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/any.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/boolean.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/cast.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/exception.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/demangle.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/compiler.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/dumper.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/dynamic_storage.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/types.h \
  /usr/include/c++/14/cstdint \
- /workspace/otclient/src/framework/../framework/stdext/format.h \
- /workspace/otclient/src/framework/../framework/stdext/traits.h \
- /workspace/otclient/src/framework/../framework/stdext/math.h \
- /workspace/otclient/src/framework/../framework/stdext/packed_any.h \
- /workspace/otclient/src/framework/../framework/stdext/packed_storage.h \
- /workspace/otclient/src/framework/../framework/stdext/shared_object.h \
- /workspace/otclient/src/framework/../framework/stdext/string.h \
- /workspace/otclient/src/framework/../framework/stdext/time.h \
- /workspace/otclient/src/framework/../framework/util/point.h \
- /workspace/otclient/src/framework/../framework/util/../stdext/types.h \
- /workspace/otclient/src/framework/../framework/util/color.h \
- /workspace/otclient/src/framework/../framework/util/../stdext/cast.h \
- /workspace/otclient/src/framework/../framework/util/../stdext/string.h \
- /workspace/otclient/src/framework/../framework/util/../const.h \
- /workspace/otclient/src/framework/../framework/util/rect.h \
- /workspace/otclient/src/framework/../framework/util/size.h \
- /workspace/otclient/src/framework/../framework/util/point.h \
- /workspace/otclient/src/framework/../framework/util/matrix.h \
- /workspace/otclient/src/framework/../framework/core/logger.h \
- /workspace/otclient/src/framework/../framework/core/../global.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/format.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/traits.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/math.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/packed_any.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/packed_storage.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/shared_object.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/string.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/time.h \
+ /workspace/otclient/src/framework/../framework/core/../util/point.h \
+ /workspace/otclient/src/framework/../framework/core/../util/../stdext/types.h \
+ /workspace/otclient/src/framework/../framework/core/../util/color.h \
+ /workspace/otclient/src/framework/../framework/core/../util/../stdext/cast.h \
+ /workspace/otclient/src/framework/../framework/core/../util/../stdext/string.h \
+ /workspace/otclient/src/framework/../framework/core/../util/../const.h \
+ /workspace/otclient/src/framework/../framework/core/../util/rect.h \
+ /workspace/otclient/src/framework/../framework/core/../util/size.h \
+ /workspace/otclient/src/framework/../framework/core/../util/point.h \
+ /workspace/otclient/src/framework/../framework/core/../util/matrix.h \
+ /workspace/otclient/src/framework/../framework/core/../core/logger.h \
  /workspace/otclient/src/framework/../framework/stdext/thread.h \
  /usr/include/boost/thread/future.hpp \
  /usr/include/boost/thread/detail/config.hpp \
@@ -1108,5 +1108,6 @@ CMakeFiles/otclient.dir/src/cef/graphics/gpu/gpuhelper.cpp.o: \
  /usr/include/c++/14/condition_variable /usr/include/c++/14/fstream \
  /usr/include/x86_64-linux-gnu/c++/14/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++io.h \
- /usr/include/c++/14/bits/fstream.tcc /usr/include/GL/gl.h \
- /usr/include/GL/glext.h
+ /usr/include/c++/14/bits/fstream.tcc \
+ /workspace/otclient/src/framework/../framework/stdext/format.h \
+ /usr/include/GL/gl.h /usr/include/GL/glext.h

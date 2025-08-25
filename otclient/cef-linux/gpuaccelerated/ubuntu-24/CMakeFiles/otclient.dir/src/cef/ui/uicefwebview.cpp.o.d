@@ -1193,58 +1193,15 @@ CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o: \
  /home/leandro/.local/share/otclient-cef/include/cef_cookie.h \
  /home/leandro/.local/share/otclient-cef/include/cef_media_router.h \
  /home/leandro/.local/share/otclient-cef/include/cef_preference.h \
- /home/leandro/.local/share/otclient-cef/include/cef_client.h \
- /home/leandro/.local/share/otclient-cef/include/cef_audio_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_command_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_context_menu_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_menu_model.h \
- /home/leandro/.local/share/otclient-cef/include/cef_menu_model_delegate.h \
- /home/leandro/.local/share/otclient-cef/include/cef_dialog_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_display_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_download_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_download_item.h \
- /home/leandro/.local/share/otclient-cef/include/cef_drag_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_find_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_focus_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_frame_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_jsdialog_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_keyboard_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_life_span_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_load_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_permission_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_print_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_print_settings.h \
  /home/leandro/.local/share/otclient-cef/include/cef_render_handler.h \
  /home/leandro/.local/share/otclient-cef/include/cef_accessibility_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_request_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_auth_callback.h \
- /home/leandro/.local/share/otclient-cef/include/cef_resource_request_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_resource_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_response.h \
- /home/leandro/.local/share/otclient-cef/include/cef_response_filter.h \
- /home/leandro/.local/share/otclient-cef/include/cef_ssl_info.h \
- /home/leandro/.local/share/otclient-cef/include/cef_unresponsive_process_callback.h \
- /workspace/otclient/src/cef/ui/../graphics/cef_renderer.h \
- /workspace/otclient/src/framework/../framework/graphics/graphics.h \
- /workspace/otclient/src/framework/../framework/graphics/painter.h \
- /workspace/otclient/src/framework/../framework/graphics/paintershaderprogram.h \
- /workspace/otclient/src/framework/../framework/graphics/shaderprogram.h \
- /workspace/otclient/src/framework/../framework/graphics/shader.h \
- /workspace/otclient/src/framework/../framework/graphics/coordsbuffer.h \
- /workspace/otclient/src/framework/../framework/graphics/texture.h \
  /workspace/otclient/src/framework/../framework/core/logger.h \
- /workspace/otclient/src/framework/../framework/core/clock.h \
- /workspace/otclient/src/framework/../framework/core/declarations.h \
- /workspace/otclient/src/framework/../framework/core/graphicalapplication.h \
  /workspace/otclient/src/framework/../framework/core/application.h \
  /workspace/otclient/src/framework/../framework/core/adaptativeframecounter.h \
  /workspace/otclient/src/framework/../framework/core/graphicalapplication.h \
+ /workspace/otclient/src/framework/../framework/core/application.h \
  /workspace/otclient/src/framework/../framework/core/inputevent.h \
- /workspace/otclient/src/framework/../framework/core/eventdispatcher.h \
- /workspace/otclient/src/framework/../framework/core/clock.h \
- /workspace/otclient/src/framework/../framework/core/scheduledevent.h \
- /workspace/otclient/src/framework/../framework/core/event.h \
- /usr/include/c++/14/queue /usr/include/c++/14/bits/stl_queue.h \
+ /workspace/otclient/src/framework/../framework/core/declarations.h \
  /workspace/otclient/src/framework/../framework/core/resourcemanager.h \
  /usr/include/boost/filesystem.hpp \
  /usr/include/boost/filesystem/config.hpp \
@@ -1269,36 +1226,45 @@ CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o: \
  /workspace/otclient/src/framework/../framework/luaengine/luainterface.h \
  /workspace/otclient/src/cef/ui/../graphics/cef_rendererfactory.h \
  /workspace/otclient/src/cef/ui/cef_client.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_client.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_audio_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_command_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_context_menu_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_menu_model.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_menu_model_delegate.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_dialog_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_display_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_download_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_download_item.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_drag_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_find_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_focus_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_frame_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_jsdialog_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_keyboard_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_life_span_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_load_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_permission_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_print_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_print_settings.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_request_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_auth_callback.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_resource_request_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_resource_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_response.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_response_filter.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_ssl_info.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_unresponsive_process_callback.h \
  /home/leandro/.local/share/otclient-cef/include/wrapper/cef_message_router.h \
  /home/leandro/.local/share/otclient-cef/include/cef_v8.h \
  /home/leandro/.local/share/otclient-cef/include/cef_task.h \
  /workspace/otclient/src/cef/ui/cef_inputhandler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_app.h \
- /home/leandro/.local/share/otclient-cef/include/cef_browser_process_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_command_line.h \
- /home/leandro/.local/share/otclient-cef/include/cef_request_context_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_render_process_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_resource_bundle_handler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_scheme.h \
- /home/leandro/.local/share/otclient-cef/include/wrapper/cef_helpers.h \
- /home/leandro/.local/share/otclient-cef/include/base/cef_bind.h \
- /home/leandro/.local/share/otclient-cef/include/base/internal/cef_bind_internal.h \
- /home/leandro/.local/share/otclient-cef/include/base/cef_weak_ptr.h \
- /home/leandro/.local/share/otclient-cef/include/base/cef_atomic_flag.h \
- /home/leandro/.local/share/otclient-cef/include/base/internal/cef_callback_internal.h \
- /home/leandro/.local/share/otclient-cef/include/base/cef_callback_forward.h \
- /home/leandro/.local/share/otclient-cef/include/base/internal/cef_raw_scoped_refptr_mismatch_checker.h \
- /home/leandro/.local/share/otclient-cef/include/cef_parser.h \
- /workspace/otclient/src/framework/../cef/resources/cefphysfsresourcehandler.h \
- /usr/include/x86_64-linux-gnu/sys/mman.h \
- /usr/include/x86_64-linux-gnu/bits/mman.h \
- /usr/include/x86_64-linux-gnu/bits/mman-map-flags-generic.h \
- /usr/include/x86_64-linux-gnu/bits/mman-linux.h \
- /usr/include/x86_64-linux-gnu/bits/mman-shared.h \
- /usr/include/x86_64-linux-gnu/bits/mman_ext.h /usr/include/fcntl.h \
- /usr/include/x86_64-linux-gnu/bits/fcntl.h \
- /usr/include/x86_64-linux-gnu/bits/fcntl-linux.h \
- /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \
- /usr/include/linux/falloc.h /usr/include/x86_64-linux-gnu/bits/stat.h \
- /usr/include/x86_64-linux-gnu/bits/struct_stat.h \
- /usr/include/x86_64-linux-gnu/bits/fcntl2.h
+ /workspace/otclient/src/cef/ui/../graphics/cef_renderer.h \
+ /workspace/otclient/src/framework/../framework/graphics/graphics.h \
+ /workspace/otclient/src/framework/../framework/graphics/painter.h \
+ /workspace/otclient/src/framework/../framework/graphics/paintershaderprogram.h \
+ /workspace/otclient/src/framework/../framework/graphics/shaderprogram.h \
+ /workspace/otclient/src/framework/../framework/graphics/shader.h \
+ /workspace/otclient/src/framework/../framework/graphics/coordsbuffer.h \
+ /workspace/otclient/src/framework/../framework/graphics/texture.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_parser.h

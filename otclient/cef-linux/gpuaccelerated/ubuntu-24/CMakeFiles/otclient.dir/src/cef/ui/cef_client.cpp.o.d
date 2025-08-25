@@ -1229,14 +1229,6 @@ CMakeFiles/otclient.dir/src/cef/ui/cef_client.cpp.o: \
  /workspace/otclient/src/framework/../framework/graphics/hardwarebuffer.h \
  /workspace/otclient/src/framework/../framework/core/timer.h \
  /workspace/otclient/src/framework/../framework/ui/declarations.h \
- /workspace/otclient/src/cef/ui/../graphics/cef_renderer.h \
- /workspace/otclient/src/framework/../framework/graphics/graphics.h \
- /workspace/otclient/src/framework/../framework/graphics/painter.h \
- /workspace/otclient/src/framework/../framework/graphics/paintershaderprogram.h \
- /workspace/otclient/src/framework/../framework/graphics/shaderprogram.h \
- /workspace/otclient/src/framework/../framework/graphics/shader.h \
- /workspace/otclient/src/framework/../framework/graphics/coordsbuffer.h \
- /workspace/otclient/src/framework/../framework/graphics/texture.h \
  /workspace/otclient/src/framework/../cef/resources/cefphysfsresourcehandler.h \
  /home/leandro/.local/share/otclient-cef/include/cef_scheme.h \
  /workspace/otclient/src/framework/../framework/core/logger.h \

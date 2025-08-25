@@ -1239,12 +1239,4 @@ CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.o: \
  /workspace/otclient/src/framework/../framework/graphics/hardwarebuffer.h \
  /workspace/otclient/src/framework/../framework/core/timer.h \
  /workspace/otclient/src/framework/../framework/ui/declarations.h \
- /workspace/otclient/src/framework/../cef/ui/../graphics/cef_renderer.h \
- /workspace/otclient/src/framework/../framework/graphics/graphics.h \
- /workspace/otclient/src/framework/../framework/graphics/painter.h \
- /workspace/otclient/src/framework/../framework/graphics/paintershaderprogram.h \
- /workspace/otclient/src/framework/../framework/graphics/shaderprogram.h \
- /workspace/otclient/src/framework/../framework/graphics/shader.h \
- /workspace/otclient/src/framework/../framework/graphics/coordsbuffer.h \
- /workspace/otclient/src/framework/../framework/graphics/texture.h \
  /workspace/otclient/src/framework/../framework/stdext/format.h
