@@ -1,5 +1,5 @@
 CMakeFiles/otclient.dir/src/framework/luaengine/lbitlib.cpp.o: \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/luaengine/lbitlib.cpp \
+ /workspace/otclient/src/framework/luaengine/lbitlib.cpp \
  /usr/include/stdc-predef.h /usr/include/lua5.1/lua.h \
  /usr/lib/gcc/x86_64-linux-gnu/14/include/stdarg.h \
  /usr/lib/gcc/x86_64-linux-gnu/14/include/stddef.h \

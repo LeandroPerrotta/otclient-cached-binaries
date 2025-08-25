@@ -1,7 +1,7 @@
 CMakeFiles/otclient.dir/src/framework/platform/platform.cpp.o: \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/platform/platform.cpp \
+ /workspace/otclient/src/framework/platform/platform.cpp \
  /usr/include/stdc-predef.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/platform/platform.h \
+ /workspace/otclient/src/framework/platform/platform.h \
  /usr/include/c++/14/string /usr/include/c++/14/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/os_defines.h \
@@ -130,7 +130,7 @@ CMakeFiles/otclient.dir/src/framework/platform/platform.cpp.o: \
  /usr/include/c++/14/bits/stl_vector.h \
  /usr/include/c++/14/bits/stl_bvector.h \
  /usr/include/c++/14/bits/vector.tcc \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/types.h \
+ /workspace/otclient/src/framework/../framework/stdext/types.h \
  /usr/include/c++/14/cstdint \
  /usr/lib/gcc/x86_64-linux-gnu/14/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \

@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/leandro/darghos/otclient-dev/edubart
+CMAKE_SOURCE_DIR = /workspace/otclient
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24
+CMAKE_BINARY_DIR = /workspace/otclient/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -132,9 +132,9 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles /home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /workspace/otclient/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles /workspace/otclient/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /workspace/otclient/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -332,6 +332,174 @@ src/cef/core/cef_init.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/core/cef_init.cpp.s
 .PHONY : src/cef/core/cef_init.cpp.s
 
+src/cef/graphics/cef_renderer.o: src/cef/graphics/cef_renderer.cpp.o
+.PHONY : src/cef/graphics/cef_renderer.o
+
+# target to build an object file
+src/cef/graphics/cef_renderer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/cef_renderer.cpp.o
+.PHONY : src/cef/graphics/cef_renderer.cpp.o
+
+src/cef/graphics/cef_renderer.i: src/cef/graphics/cef_renderer.cpp.i
+.PHONY : src/cef/graphics/cef_renderer.i
+
+# target to preprocess a source file
+src/cef/graphics/cef_renderer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/cef_renderer.cpp.i
+.PHONY : src/cef/graphics/cef_renderer.cpp.i
+
+src/cef/graphics/cef_renderer.s: src/cef/graphics/cef_renderer.cpp.s
+.PHONY : src/cef/graphics/cef_renderer.s
+
+# target to generate assembly for a file
+src/cef/graphics/cef_renderer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/cef_renderer.cpp.s
+.PHONY : src/cef/graphics/cef_renderer.cpp.s
+
+src/cef/graphics/cef_renderercpu.o: src/cef/graphics/cef_renderercpu.cpp.o
+.PHONY : src/cef/graphics/cef_renderercpu.o
+
+# target to build an object file
+src/cef/graphics/cef_renderercpu.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/cef_renderercpu.cpp.o
+.PHONY : src/cef/graphics/cef_renderercpu.cpp.o
+
+src/cef/graphics/cef_renderercpu.i: src/cef/graphics/cef_renderercpu.cpp.i
+.PHONY : src/cef/graphics/cef_renderercpu.i
+
+# target to preprocess a source file
+src/cef/graphics/cef_renderercpu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/cef_renderercpu.cpp.i
+.PHONY : src/cef/graphics/cef_renderercpu.cpp.i
+
+src/cef/graphics/cef_renderercpu.s: src/cef/graphics/cef_renderercpu.cpp.s
+.PHONY : src/cef/graphics/cef_renderercpu.s
+
+# target to generate assembly for a file
+src/cef/graphics/cef_renderercpu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/cef_renderercpu.cpp.s
+.PHONY : src/cef/graphics/cef_renderercpu.cpp.s
+
+src/cef/graphics/cef_rendererfactory.o: src/cef/graphics/cef_rendererfactory.cpp.o
+.PHONY : src/cef/graphics/cef_rendererfactory.o
+
+# target to build an object file
+src/cef/graphics/cef_rendererfactory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/cef_rendererfactory.cpp.o
+.PHONY : src/cef/graphics/cef_rendererfactory.cpp.o
+
+src/cef/graphics/cef_rendererfactory.i: src/cef/graphics/cef_rendererfactory.cpp.i
+.PHONY : src/cef/graphics/cef_rendererfactory.i
+
+# target to preprocess a source file
+src/cef/graphics/cef_rendererfactory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/cef_rendererfactory.cpp.i
+.PHONY : src/cef/graphics/cef_rendererfactory.cpp.i
+
+src/cef/graphics/cef_rendererfactory.s: src/cef/graphics/cef_rendererfactory.cpp.s
+.PHONY : src/cef/graphics/cef_rendererfactory.s
+
+# target to generate assembly for a file
+src/cef/graphics/cef_rendererfactory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/cef_rendererfactory.cpp.s
+.PHONY : src/cef/graphics/cef_rendererfactory.cpp.s
+
+src/cef/graphics/gpu/cef_renderergpulinuxmesa.o: src/cef/graphics/gpu/cef_renderergpulinuxmesa.cpp.o
+.PHONY : src/cef/graphics/gpu/cef_renderergpulinuxmesa.o
+
+# target to build an object file
+src/cef/graphics/gpu/cef_renderergpulinuxmesa.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/gpu/cef_renderergpulinuxmesa.cpp.o
+.PHONY : src/cef/graphics/gpu/cef_renderergpulinuxmesa.cpp.o
+
+src/cef/graphics/gpu/cef_renderergpulinuxmesa.i: src/cef/graphics/gpu/cef_renderergpulinuxmesa.cpp.i
+.PHONY : src/cef/graphics/gpu/cef_renderergpulinuxmesa.i
+
+# target to preprocess a source file
+src/cef/graphics/gpu/cef_renderergpulinuxmesa.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/gpu/cef_renderergpulinuxmesa.cpp.i
+.PHONY : src/cef/graphics/gpu/cef_renderergpulinuxmesa.cpp.i
+
+src/cef/graphics/gpu/cef_renderergpulinuxmesa.s: src/cef/graphics/gpu/cef_renderergpulinuxmesa.cpp.s
+.PHONY : src/cef/graphics/gpu/cef_renderergpulinuxmesa.s
+
+# target to generate assembly for a file
+src/cef/graphics/gpu/cef_renderergpulinuxmesa.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/gpu/cef_renderergpulinuxmesa.cpp.s
+.PHONY : src/cef/graphics/gpu/cef_renderergpulinuxmesa.cpp.s
+
+src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.o: src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.cpp.o
+.PHONY : src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.o
+
+# target to build an object file
+src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.cpp.o
+.PHONY : src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.cpp.o
+
+src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.i: src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.cpp.i
+.PHONY : src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.i
+
+# target to preprocess a source file
+src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.cpp.i
+.PHONY : src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.cpp.i
+
+src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.s: src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.cpp.s
+.PHONY : src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.s
+
+# target to generate assembly for a file
+src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.cpp.s
+.PHONY : src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.cpp.s
+
+src/cef/graphics/gpu/gpuhelper.o: src/cef/graphics/gpu/gpuhelper.cpp.o
+.PHONY : src/cef/graphics/gpu/gpuhelper.o
+
+# target to build an object file
+src/cef/graphics/gpu/gpuhelper.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/gpu/gpuhelper.cpp.o
+.PHONY : src/cef/graphics/gpu/gpuhelper.cpp.o
+
+src/cef/graphics/gpu/gpuhelper.i: src/cef/graphics/gpu/gpuhelper.cpp.i
+.PHONY : src/cef/graphics/gpu/gpuhelper.i
+
+# target to preprocess a source file
+src/cef/graphics/gpu/gpuhelper.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/gpu/gpuhelper.cpp.i
+.PHONY : src/cef/graphics/gpu/gpuhelper.cpp.i
+
+src/cef/graphics/gpu/gpuhelper.s: src/cef/graphics/gpu/gpuhelper.cpp.s
+.PHONY : src/cef/graphics/gpu/gpuhelper.s
+
+# target to generate assembly for a file
+src/cef/graphics/gpu/gpuhelper.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/gpu/gpuhelper.cpp.s
+.PHONY : src/cef/graphics/gpu/gpuhelper.cpp.s
+
+src/cef/graphics/gpu/linuxgpucontext.o: src/cef/graphics/gpu/linuxgpucontext.cpp.o
+.PHONY : src/cef/graphics/gpu/linuxgpucontext.o
+
+# target to build an object file
+src/cef/graphics/gpu/linuxgpucontext.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/gpu/linuxgpucontext.cpp.o
+.PHONY : src/cef/graphics/gpu/linuxgpucontext.cpp.o
+
+src/cef/graphics/gpu/linuxgpucontext.i: src/cef/graphics/gpu/linuxgpucontext.cpp.i
+.PHONY : src/cef/graphics/gpu/linuxgpucontext.i
+
+# target to preprocess a source file
+src/cef/graphics/gpu/linuxgpucontext.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/gpu/linuxgpucontext.cpp.i
+.PHONY : src/cef/graphics/gpu/linuxgpucontext.cpp.i
+
+src/cef/graphics/gpu/linuxgpucontext.s: src/cef/graphics/gpu/linuxgpucontext.cpp.s
+.PHONY : src/cef/graphics/gpu/linuxgpucontext.s
+
+# target to generate assembly for a file
+src/cef/graphics/gpu/linuxgpucontext.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/graphics/gpu/linuxgpucontext.cpp.s
+.PHONY : src/cef/graphics/gpu/linuxgpucontext.cpp.s
+
 src/cef/resources/cefphysfsresourcehandler.o: src/cef/resources/cefphysfsresourcehandler.cpp.o
 .PHONY : src/cef/resources/cefphysfsresourcehandler.o
 
@@ -380,6 +548,30 @@ src/cef/subprocess/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient_cef_subproc.dir/build.make CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.s
 .PHONY : src/cef/subprocess/main.cpp.s
 
+src/cef/ui/cef_client.o: src/cef/ui/cef_client.cpp.o
+.PHONY : src/cef/ui/cef_client.o
+
+# target to build an object file
+src/cef/ui/cef_client.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/ui/cef_client.cpp.o
+.PHONY : src/cef/ui/cef_client.cpp.o
+
+src/cef/ui/cef_client.i: src/cef/ui/cef_client.cpp.i
+.PHONY : src/cef/ui/cef_client.i
+
+# target to preprocess a source file
+src/cef/ui/cef_client.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/ui/cef_client.cpp.i
+.PHONY : src/cef/ui/cef_client.cpp.i
+
+src/cef/ui/cef_client.s: src/cef/ui/cef_client.cpp.s
+.PHONY : src/cef/ui/cef_client.s
+
+# target to generate assembly for a file
+src/cef/ui/cef_client.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/ui/cef_client.cpp.s
+.PHONY : src/cef/ui/cef_client.cpp.s
+
 src/cef/ui/cef_inputhandler.o: src/cef/ui/cef_inputhandler.cpp.o
 .PHONY : src/cef/ui/cef_inputhandler.o
 
@@ -403,6 +595,30 @@ src/cef/ui/cef_inputhandler.s: src/cef/ui/cef_inputhandler.cpp.s
 src/cef/ui/cef_inputhandler.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/ui/cef_inputhandler.cpp.s
 .PHONY : src/cef/ui/cef_inputhandler.cpp.s
+
+src/cef/ui/cef_luahandler.o: src/cef/ui/cef_luahandler.cpp.o
+.PHONY : src/cef/ui/cef_luahandler.o
+
+# target to build an object file
+src/cef/ui/cef_luahandler.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/ui/cef_luahandler.cpp.o
+.PHONY : src/cef/ui/cef_luahandler.cpp.o
+
+src/cef/ui/cef_luahandler.i: src/cef/ui/cef_luahandler.cpp.i
+.PHONY : src/cef/ui/cef_luahandler.i
+
+# target to preprocess a source file
+src/cef/ui/cef_luahandler.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/ui/cef_luahandler.cpp.i
+.PHONY : src/cef/ui/cef_luahandler.cpp.i
+
+src/cef/ui/cef_luahandler.s: src/cef/ui/cef_luahandler.cpp.s
+.PHONY : src/cef/ui/cef_luahandler.s
+
+# target to generate assembly for a file
+src/cef/ui/cef_luahandler.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/cef/ui/cef_luahandler.cpp.s
+.PHONY : src/cef/ui/cef_luahandler.cpp.s
 
 src/cef/ui/uicefwebview.o: src/cef/ui/uicefwebview.cpp.o
 .PHONY : src/cef/ui/uicefwebview.o
@@ -3644,30 +3860,6 @@ src/framework/ui/uiverticallayout.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/framework/ui/uiverticallayout.cpp.s
 .PHONY : src/framework/ui/uiverticallayout.cpp.s
 
-src/framework/ui/uiwebview.o: src/framework/ui/uiwebview.cpp.o
-.PHONY : src/framework/ui/uiwebview.o
-
-# target to build an object file
-src/framework/ui/uiwebview.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/framework/ui/uiwebview.cpp.o
-.PHONY : src/framework/ui/uiwebview.cpp.o
-
-src/framework/ui/uiwebview.i: src/framework/ui/uiwebview.cpp.i
-.PHONY : src/framework/ui/uiwebview.i
-
-# target to preprocess a source file
-src/framework/ui/uiwebview.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/framework/ui/uiwebview.cpp.i
-.PHONY : src/framework/ui/uiwebview.cpp.i
-
-src/framework/ui/uiwebview.s: src/framework/ui/uiwebview.cpp.s
-.PHONY : src/framework/ui/uiwebview.s
-
-# target to generate assembly for a file
-src/framework/ui/uiwebview.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/otclient.dir/build.make CMakeFiles/otclient.dir/src/framework/ui/uiwebview.cpp.s
-.PHONY : src/framework/ui/uiwebview.cpp.s
-
 src/framework/ui/uiwidget.o: src/framework/ui/uiwidget.cpp.o
 .PHONY : src/framework/ui/uiwidget.o
 
@@ -3962,15 +4154,42 @@ help:
 	@echo "... src/cef/core/cef_init.o"
 	@echo "... src/cef/core/cef_init.i"
 	@echo "... src/cef/core/cef_init.s"
+	@echo "... src/cef/graphics/cef_renderer.o"
+	@echo "... src/cef/graphics/cef_renderer.i"
+	@echo "... src/cef/graphics/cef_renderer.s"
+	@echo "... src/cef/graphics/cef_renderercpu.o"
+	@echo "... src/cef/graphics/cef_renderercpu.i"
+	@echo "... src/cef/graphics/cef_renderercpu.s"
+	@echo "... src/cef/graphics/cef_rendererfactory.o"
+	@echo "... src/cef/graphics/cef_rendererfactory.i"
+	@echo "... src/cef/graphics/cef_rendererfactory.s"
+	@echo "... src/cef/graphics/gpu/cef_renderergpulinuxmesa.o"
+	@echo "... src/cef/graphics/gpu/cef_renderergpulinuxmesa.i"
+	@echo "... src/cef/graphics/gpu/cef_renderergpulinuxmesa.s"
+	@echo "... src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.o"
+	@echo "... src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.i"
+	@echo "... src/cef/graphics/gpu/cef_renderergpulinuxnonmesa.s"
+	@echo "... src/cef/graphics/gpu/gpuhelper.o"
+	@echo "... src/cef/graphics/gpu/gpuhelper.i"
+	@echo "... src/cef/graphics/gpu/gpuhelper.s"
+	@echo "... src/cef/graphics/gpu/linuxgpucontext.o"
+	@echo "... src/cef/graphics/gpu/linuxgpucontext.i"
+	@echo "... src/cef/graphics/gpu/linuxgpucontext.s"
 	@echo "... src/cef/resources/cefphysfsresourcehandler.o"
 	@echo "... src/cef/resources/cefphysfsresourcehandler.i"
 	@echo "... src/cef/resources/cefphysfsresourcehandler.s"
 	@echo "... src/cef/subprocess/main.o"
 	@echo "... src/cef/subprocess/main.i"
 	@echo "... src/cef/subprocess/main.s"
+	@echo "... src/cef/ui/cef_client.o"
+	@echo "... src/cef/ui/cef_client.i"
+	@echo "... src/cef/ui/cef_client.s"
 	@echo "... src/cef/ui/cef_inputhandler.o"
 	@echo "... src/cef/ui/cef_inputhandler.i"
 	@echo "... src/cef/ui/cef_inputhandler.s"
+	@echo "... src/cef/ui/cef_luahandler.o"
+	@echo "... src/cef/ui/cef_luahandler.i"
+	@echo "... src/cef/ui/cef_luahandler.s"
 	@echo "... src/cef/ui/uicefwebview.o"
 	@echo "... src/cef/ui/uicefwebview.i"
 	@echo "... src/cef/ui/uicefwebview.s"
@@ -4376,9 +4595,6 @@ help:
 	@echo "... src/framework/ui/uiverticallayout.o"
 	@echo "... src/framework/ui/uiverticallayout.i"
 	@echo "... src/framework/ui/uiverticallayout.s"
-	@echo "... src/framework/ui/uiwebview.o"
-	@echo "... src/framework/ui/uiwebview.i"
-	@echo "... src/framework/ui/uiwebview.s"
 	@echo "... src/framework/ui/uiwidget.o"
 	@echo "... src/framework/ui/uiwidget.i"
 	@echo "... src/framework/ui/uiwidget.s"

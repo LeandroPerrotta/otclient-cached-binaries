@@ -1,13 +1,11 @@
 CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o: \
- /home/leandro/darghos/otclient-dev/edubart/src/cef/ui/uicefwebview.cpp \
- /usr/include/stdc-predef.h \
- /home/leandro/darghos/otclient-dev/edubart/src/cef/ui/uicefwebview.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/ui/uiwebview.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/ui/uiwidget.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/ui/declarations.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/global.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/compiler.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/pch.h \
+ /workspace/otclient/src/cef/ui/uicefwebview.cpp \
+ /usr/include/stdc-predef.h /workspace/otclient/src/cef/ui/uicefwebview.h \
+ /workspace/otclient/src/framework/../framework/ui/uiwidget.h \
+ /workspace/otclient/src/framework/../framework/ui/declarations.h \
+ /workspace/otclient/src/framework/../framework/global.h \
+ /workspace/otclient/src/framework/../framework/stdext/compiler.h \
+ /workspace/otclient/src/framework/../framework/pch.h \
  /usr/include/c++/14/cstdio \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/os_defines.h \
@@ -230,42 +228,42 @@ CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o: \
  /usr/include/c++/14/bits/locale_facets_nonio.tcc \
  /usr/include/c++/14/bits/locale_conv.h \
  /usr/include/c++/14/bits/quoted_string.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/const.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/stdext.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/any.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/boolean.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/cast.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/exception.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/demangle.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/compiler.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/dumper.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/dynamic_storage.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/types.h \
+ /workspace/otclient/src/framework/../framework/const.h \
+ /workspace/otclient/src/framework/../framework/stdext/stdext.h \
+ /workspace/otclient/src/framework/../framework/stdext/any.h \
+ /workspace/otclient/src/framework/../framework/stdext/boolean.h \
+ /workspace/otclient/src/framework/../framework/stdext/cast.h \
+ /workspace/otclient/src/framework/../framework/stdext/exception.h \
+ /workspace/otclient/src/framework/../framework/stdext/demangle.h \
+ /workspace/otclient/src/framework/../framework/stdext/compiler.h \
+ /workspace/otclient/src/framework/../framework/stdext/dumper.h \
+ /workspace/otclient/src/framework/../framework/stdext/dynamic_storage.h \
+ /workspace/otclient/src/framework/../framework/stdext/types.h \
  /usr/include/c++/14/cstdint \
  /usr/lib/gcc/x86_64-linux-gnu/14/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/format.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/traits.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/math.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/packed_any.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/packed_storage.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/shared_object.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/string.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/time.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/point.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/../stdext/types.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/color.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/../stdext/cast.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/../stdext/string.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/../const.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/rect.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/size.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/point.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/matrix.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/logger.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../global.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/thread.h \
+ /workspace/otclient/src/framework/../framework/stdext/format.h \
+ /workspace/otclient/src/framework/../framework/stdext/traits.h \
+ /workspace/otclient/src/framework/../framework/stdext/math.h \
+ /workspace/otclient/src/framework/../framework/stdext/packed_any.h \
+ /workspace/otclient/src/framework/../framework/stdext/packed_storage.h \
+ /workspace/otclient/src/framework/../framework/stdext/shared_object.h \
+ /workspace/otclient/src/framework/../framework/stdext/string.h \
+ /workspace/otclient/src/framework/../framework/stdext/time.h \
+ /workspace/otclient/src/framework/../framework/util/point.h \
+ /workspace/otclient/src/framework/../framework/util/../stdext/types.h \
+ /workspace/otclient/src/framework/../framework/util/color.h \
+ /workspace/otclient/src/framework/../framework/util/../stdext/cast.h \
+ /workspace/otclient/src/framework/../framework/util/../stdext/string.h \
+ /workspace/otclient/src/framework/../framework/util/../const.h \
+ /workspace/otclient/src/framework/../framework/util/rect.h \
+ /workspace/otclient/src/framework/../framework/util/size.h \
+ /workspace/otclient/src/framework/../framework/util/point.h \
+ /workspace/otclient/src/framework/../framework/util/matrix.h \
+ /workspace/otclient/src/framework/../framework/core/logger.h \
+ /workspace/otclient/src/framework/../framework/core/../global.h \
+ /workspace/otclient/src/framework/../framework/stdext/thread.h \
  /usr/include/boost/thread/future.hpp \
  /usr/include/boost/thread/detail/config.hpp \
  /usr/include/boost/config.hpp /usr/include/boost/config/user.hpp \
@@ -1109,34 +1107,34 @@ CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/14/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++io.h \
  /usr/include/c++/14/bits/fstream.tcc \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/ui/uilayout.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/luaengine/luaobject.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/luaengine/declarations.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/luaengine/luainterface.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/luaengine/luaexception.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/luaengine/luabinder.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/traits.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/luaengine/luavaluecasts.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/otml/declarations.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/luaengine/luaobject.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/otml/otml.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/otml/otmldocument.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/otml/otmlnode.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/otml/declarations.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/otml/otmlexception.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/declarations.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/glutil.h \
+ /workspace/otclient/src/framework/../framework/ui/uilayout.h \
+ /workspace/otclient/src/framework/../framework/luaengine/luaobject.h \
+ /workspace/otclient/src/framework/../framework/luaengine/declarations.h \
+ /workspace/otclient/src/framework/../framework/luaengine/luainterface.h \
+ /workspace/otclient/src/framework/../framework/luaengine/luaexception.h \
+ /workspace/otclient/src/framework/../framework/luaengine/luabinder.h \
+ /workspace/otclient/src/framework/../framework/stdext/traits.h \
+ /workspace/otclient/src/framework/../framework/luaengine/luavaluecasts.h \
+ /workspace/otclient/src/framework/../framework/otml/declarations.h \
+ /workspace/otclient/src/framework/../framework/luaengine/luaobject.h \
+ /workspace/otclient/src/framework/../framework/otml/otml.h \
+ /workspace/otclient/src/framework/../framework/otml/otmldocument.h \
+ /workspace/otclient/src/framework/../framework/otml/otmlnode.h \
+ /workspace/otclient/src/framework/../framework/otml/declarations.h \
+ /workspace/otclient/src/framework/../framework/otml/otmlexception.h \
+ /workspace/otclient/src/framework/../framework/graphics/declarations.h \
+ /workspace/otclient/src/framework/../framework/graphics/glutil.h \
  /usr/include/GL/glew.h /usr/include/GL/glu.h /usr/include/GL/gl.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/otml/otmlnode.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/bitmapfont.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/declarations.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/texture.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/coordsbuffer.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/vertexarray.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/databuffer.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/hardwarebuffer.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/timer.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/declarations.h \
+ /workspace/otclient/src/framework/../framework/otml/otmlnode.h \
+ /workspace/otclient/src/framework/../framework/graphics/bitmapfont.h \
+ /workspace/otclient/src/framework/../framework/graphics/declarations.h \
+ /workspace/otclient/src/framework/../framework/graphics/texture.h \
+ /workspace/otclient/src/framework/../framework/graphics/coordsbuffer.h \
+ /workspace/otclient/src/framework/../framework/graphics/vertexarray.h \
+ /workspace/otclient/src/framework/../framework/util/databuffer.h \
+ /workspace/otclient/src/framework/../framework/graphics/hardwarebuffer.h \
+ /workspace/otclient/src/framework/../framework/core/timer.h \
+ /workspace/otclient/src/framework/../framework/ui/declarations.h \
  /home/leandro/.local/share/otclient-cef/include/cef_browser.h \
  /home/leandro/.local/share/otclient-cef/include/cef_base.h \
  /home/leandro/.local/share/otclient-cef/include/base/cef_build.h \
@@ -1226,41 +1224,62 @@ CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o: \
  /home/leandro/.local/share/otclient-cef/include/cef_response_filter.h \
  /home/leandro/.local/share/otclient-cef/include/cef_ssl_info.h \
  /home/leandro/.local/share/otclient-cef/include/cef_unresponsive_process_callback.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/texture.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/image.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/logger.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/clock.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/declarations.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/graphicalapplication.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/application.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/adaptativeframecounter.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/graphicalapplication.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/inputevent.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/eventdispatcher.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/clock.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/scheduledevent.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/event.h \
+ /workspace/otclient/src/cef/ui/../graphics/cef_renderer.h \
+ /workspace/otclient/src/framework/../framework/graphics/graphics.h \
+ /workspace/otclient/src/framework/../framework/graphics/painter.h \
+ /workspace/otclient/src/framework/../framework/graphics/paintershaderprogram.h \
+ /workspace/otclient/src/framework/../framework/graphics/shaderprogram.h \
+ /workspace/otclient/src/framework/../framework/graphics/shader.h \
+ /workspace/otclient/src/framework/../framework/graphics/coordsbuffer.h \
+ /workspace/otclient/src/framework/../framework/graphics/texture.h \
+ /workspace/otclient/src/framework/../framework/core/logger.h \
+ /workspace/otclient/src/framework/../framework/core/clock.h \
+ /workspace/otclient/src/framework/../framework/core/declarations.h \
+ /workspace/otclient/src/framework/../framework/core/graphicalapplication.h \
+ /workspace/otclient/src/framework/../framework/core/application.h \
+ /workspace/otclient/src/framework/../framework/core/adaptativeframecounter.h \
+ /workspace/otclient/src/framework/../framework/core/graphicalapplication.h \
+ /workspace/otclient/src/framework/../framework/core/inputevent.h \
+ /workspace/otclient/src/framework/../framework/core/eventdispatcher.h \
+ /workspace/otclient/src/framework/../framework/core/clock.h \
+ /workspace/otclient/src/framework/../framework/core/scheduledevent.h \
+ /workspace/otclient/src/framework/../framework/core/event.h \
  /usr/include/c++/14/queue /usr/include/c++/14/bits/stl_queue.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/graphics.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/painter.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/paintershaderprogram.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/shaderprogram.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/shader.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/coordsbuffer.h \
- /home/leandro/darghos/otclient-dev/edubart/src/cef/ui/cef_client.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../cef/resources/cefphysfsresourcehandler.h \
- /home/leandro/.local/share/otclient-cef/include/cef_scheme.h \
+ /workspace/otclient/src/framework/../framework/core/resourcemanager.h \
+ /usr/include/boost/filesystem.hpp \
+ /usr/include/boost/filesystem/config.hpp \
+ /usr/include/boost/filesystem/path.hpp \
+ /usr/include/boost/filesystem/detail/path_traits.hpp \
+ /usr/include/boost/filesystem/detail/header.hpp \
+ /usr/include/boost/filesystem/detail/footer.hpp \
+ /usr/include/boost/io/quoted.hpp \
+ /usr/include/boost/io/detail/buffer_fill.hpp \
+ /usr/include/boost/io/detail/ostream_guard.hpp \
+ /usr/include/boost/functional/hash_fwd.hpp \
+ /usr/include/boost/filesystem/exception.hpp \
+ /usr/include/boost/smart_ptr/intrusive_ptr.hpp \
+ /usr/include/boost/smart_ptr/intrusive_ref_counter.hpp \
+ /usr/include/boost/smart_ptr/detail/atomic_count.hpp \
+ /usr/include/boost/smart_ptr/detail/atomic_count_gcc_atomic.hpp \
+ /usr/include/boost/filesystem/directory.hpp \
+ /usr/include/boost/filesystem/file_status.hpp \
+ /usr/include/boost/detail/bitmask.hpp \
+ /usr/include/boost/filesystem/operations.hpp \
+ /usr/include/boost/filesystem/convenience.hpp \
+ /workspace/otclient/src/framework/../framework/luaengine/luainterface.h \
+ /workspace/otclient/src/cef/ui/../graphics/cef_rendererfactory.h \
+ /workspace/otclient/src/cef/ui/cef_client.h \
  /home/leandro/.local/share/otclient-cef/include/wrapper/cef_message_router.h \
  /home/leandro/.local/share/otclient-cef/include/cef_v8.h \
  /home/leandro/.local/share/otclient-cef/include/cef_task.h \
- /home/leandro/.local/share/otclient-cef/include/cef_parser.h \
- /home/leandro/darghos/otclient-dev/edubart/src/cef/ui/cef_inputhandler.h \
+ /workspace/otclient/src/cef/ui/cef_inputhandler.h \
  /home/leandro/.local/share/otclient-cef/include/cef_app.h \
  /home/leandro/.local/share/otclient-cef/include/cef_browser_process_handler.h \
  /home/leandro/.local/share/otclient-cef/include/cef_command_line.h \
  /home/leandro/.local/share/otclient-cef/include/cef_request_context_handler.h \
  /home/leandro/.local/share/otclient-cef/include/cef_render_process_handler.h \
  /home/leandro/.local/share/otclient-cef/include/cef_resource_bundle_handler.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_scheme.h \
  /home/leandro/.local/share/otclient-cef/include/wrapper/cef_helpers.h \
  /home/leandro/.local/share/otclient-cef/include/base/cef_bind.h \
  /home/leandro/.local/share/otclient-cef/include/base/internal/cef_bind_internal.h \
@@ -1269,33 +1288,17 @@ CMakeFiles/otclient.dir/src/cef/ui/uicefwebview.cpp.o: \
  /home/leandro/.local/share/otclient-cef/include/base/internal/cef_callback_internal.h \
  /home/leandro/.local/share/otclient-cef/include/base/cef_callback_forward.h \
  /home/leandro/.local/share/otclient-cef/include/base/internal/cef_raw_scoped_refptr_mismatch_checker.h \
- /usr/include/EGL/egl.h /usr/include/EGL/eglplatform.h \
- /usr/include/KHR/khrplatform.h /usr/include/EGL/eglext.h \
- /usr/include/GL/glx.h /usr/include/X11/Xlib.h /usr/include/X11/X.h \
- /usr/include/X11/Xfuncproto.h /usr/include/X11/Xosdefs.h \
- /usr/include/X11/Xutil.h /usr/include/X11/keysym.h \
- /usr/include/X11/keysymdef.h /usr/include/GL/glxext.h \
- /usr/include/inttypes.h /usr/include/drm/drm_fourcc.h \
- /usr/include/drm/drm.h /usr/include/linux/types.h \
- /usr/include/x86_64-linux-gnu/asm/types.h \
- /usr/include/asm-generic/types.h /usr/include/asm-generic/int-ll64.h \
- /usr/include/x86_64-linux-gnu/asm/bitsperlong.h \
- /usr/include/asm-generic/bitsperlong.h /usr/include/linux/posix_types.h \
- /usr/include/linux/stddef.h \
- /usr/include/x86_64-linux-gnu/asm/posix_types.h \
- /usr/include/x86_64-linux-gnu/asm/posix_types_64.h \
- /usr/include/asm-generic/posix_types.h \
- /usr/include/x86_64-linux-gnu/asm/ioctl.h \
- /usr/include/asm-generic/ioctl.h /usr/include/drm/drm_mode.h \
- /usr/include/fcntl.h /usr/include/x86_64-linux-gnu/bits/fcntl.h \
- /usr/include/x86_64-linux-gnu/bits/fcntl-linux.h \
- /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \
- /usr/include/linux/falloc.h /usr/include/x86_64-linux-gnu/bits/stat.h \
- /usr/include/x86_64-linux-gnu/bits/struct_stat.h \
- /usr/include/x86_64-linux-gnu/bits/fcntl2.h \
+ /home/leandro/.local/share/otclient-cef/include/cef_parser.h \
+ /workspace/otclient/src/framework/../cef/resources/cefphysfsresourcehandler.h \
  /usr/include/x86_64-linux-gnu/sys/mman.h \
  /usr/include/x86_64-linux-gnu/bits/mman.h \
  /usr/include/x86_64-linux-gnu/bits/mman-map-flags-generic.h \
  /usr/include/x86_64-linux-gnu/bits/mman-linux.h \
  /usr/include/x86_64-linux-gnu/bits/mman-shared.h \
- /usr/include/x86_64-linux-gnu/bits/mman_ext.h
+ /usr/include/x86_64-linux-gnu/bits/mman_ext.h /usr/include/fcntl.h \
+ /usr/include/x86_64-linux-gnu/bits/fcntl.h \
+ /usr/include/x86_64-linux-gnu/bits/fcntl-linux.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \
+ /usr/include/linux/falloc.h /usr/include/x86_64-linux-gnu/bits/stat.h \
+ /usr/include/x86_64-linux-gnu/bits/struct_stat.h \
+ /usr/include/x86_64-linux-gnu/bits/fcntl2.h

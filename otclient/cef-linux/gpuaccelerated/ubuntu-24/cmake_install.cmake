@@ -1,4 +1,4 @@
-# Install script for directory: /home/leandro/darghos/otclient-dev/edubart
+# Install script for directory: /workspace/otclient
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -49,12 +49,12 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/otclient"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/otclient")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/workspace/otclient/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/otclient")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/otclient" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/otclient")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/otclient"
-         OLD_RPATH "/home/leandro/darghos/otclient-dev/edubart/cef:"
+         OLD_RPATH "/workspace/otclient/cef:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/otclient")
@@ -64,19 +64,19 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/otclient" TYPE FILE FILES
-    "/home/leandro/darghos/otclient-dev/edubart/README.md"
-    "/home/leandro/darghos/otclient-dev/edubart/BUGS"
-    "/home/leandro/darghos/otclient-dev/edubart/LICENSE"
-    "/home/leandro/darghos/otclient-dev/edubart/AUTHORS"
-    "/home/leandro/darghos/otclient-dev/edubart/init.lua"
-    "/home/leandro/darghos/otclient-dev/edubart/otclientrc.lua"
+    "/workspace/otclient/README.md"
+    "/workspace/otclient/BUGS"
+    "/workspace/otclient/LICENSE"
+    "/workspace/otclient/AUTHORS"
+    "/workspace/otclient/init.lua"
+    "/workspace/otclient/otclientrc.lua"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/otclient" TYPE DIRECTORY FILES
-    "/home/leandro/darghos/otclient-dev/edubart/data"
-    "/home/leandro/darghos/otclient-dev/edubart/modules"
+    "/workspace/otclient/data"
+    "/workspace/otclient/modules"
     REGEX "/\\.git$" EXCLUDE)
 endif()
 
@@ -95,6 +95,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "/home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/workspace/otclient/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

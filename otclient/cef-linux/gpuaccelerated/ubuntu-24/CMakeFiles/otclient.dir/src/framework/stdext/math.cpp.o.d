@@ -1,7 +1,7 @@
 CMakeFiles/otclient.dir/src/framework/stdext/math.cpp.o: \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/math.cpp \
+ /workspace/otclient/src/framework/stdext/math.cpp \
  /usr/include/stdc-predef.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/math.h \
+ /workspace/otclient/src/framework/stdext/math.h \
  /usr/include/c++/14/algorithm /usr/include/c++/14/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/os_defines.h \
@@ -78,7 +78,7 @@ CMakeFiles/otclient.dir/src/framework/stdext/math.cpp.o: \
  /usr/include/c++/14/bits/std_abs.h \
  /usr/include/c++/14/pstl/glue_algorithm_defs.h \
  /usr/include/c++/14/pstl/execution_defs.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/types.h \
+ /workspace/otclient/src/framework/stdext/types.h \
  /usr/include/c++/14/cstdint \
  /usr/lib/gcc/x86_64-linux-gnu/14/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \

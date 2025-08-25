@@ -1,9 +1,8 @@
 CMakeFiles/otclient.dir/src/framework/xml/tinystr.cpp.o: \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/xml/tinystr.cpp \
+ /workspace/otclient/src/framework/xml/tinystr.cpp \
  /usr/include/stdc-predef.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/xml/tinystr.h \
- /usr/include/assert.h /usr/include/features.h \
- /usr/include/features-time64.h \
+ /workspace/otclient/src/framework/xml/tinystr.h /usr/include/assert.h \
+ /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
  /usr/include/x86_64-linux-gnu/bits/timesize.h \
  /usr/include/x86_64-linux-gnu/sys/cdefs.h \

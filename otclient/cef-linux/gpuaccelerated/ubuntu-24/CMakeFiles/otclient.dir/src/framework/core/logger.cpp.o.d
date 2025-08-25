@@ -1,10 +1,10 @@
 CMakeFiles/otclient.dir/src/framework/core/logger.cpp.o: \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/logger.cpp \
+ /workspace/otclient/src/framework/core/logger.cpp \
  /usr/include/stdc-predef.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/logger.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../global.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/compiler.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../pch.h \
+ /workspace/otclient/src/framework/core/logger.h \
+ /workspace/otclient/src/framework/core/../global.h \
+ /workspace/otclient/src/framework/core/../stdext/compiler.h \
+ /workspace/otclient/src/framework/core/../pch.h \
  /usr/include/c++/14/cstdio \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/os_defines.h \
@@ -227,41 +227,41 @@ CMakeFiles/otclient.dir/src/framework/core/logger.cpp.o: \
  /usr/include/c++/14/bits/locale_facets_nonio.tcc \
  /usr/include/c++/14/bits/locale_conv.h \
  /usr/include/c++/14/bits/quoted_string.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../const.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/stdext.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/any.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/boolean.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/cast.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/exception.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/demangle.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/compiler.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/dumper.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/dynamic_storage.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/types.h \
+ /workspace/otclient/src/framework/core/../const.h \
+ /workspace/otclient/src/framework/core/../stdext/stdext.h \
+ /workspace/otclient/src/framework/core/../stdext/any.h \
+ /workspace/otclient/src/framework/core/../stdext/boolean.h \
+ /workspace/otclient/src/framework/core/../stdext/cast.h \
+ /workspace/otclient/src/framework/core/../stdext/exception.h \
+ /workspace/otclient/src/framework/core/../stdext/demangle.h \
+ /workspace/otclient/src/framework/core/../stdext/compiler.h \
+ /workspace/otclient/src/framework/core/../stdext/dumper.h \
+ /workspace/otclient/src/framework/core/../stdext/dynamic_storage.h \
+ /workspace/otclient/src/framework/core/../stdext/types.h \
  /usr/include/c++/14/cstdint \
  /usr/lib/gcc/x86_64-linux-gnu/14/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/format.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/traits.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/math.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/packed_any.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/packed_storage.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/shared_object.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/string.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../stdext/time.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../util/point.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../util/../stdext/types.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../util/color.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../util/../stdext/cast.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../util/../stdext/string.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../util/../const.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../util/rect.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../util/size.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../util/point.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../util/matrix.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/../core/logger.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/thread.h \
+ /workspace/otclient/src/framework/core/../stdext/format.h \
+ /workspace/otclient/src/framework/core/../stdext/traits.h \
+ /workspace/otclient/src/framework/core/../stdext/math.h \
+ /workspace/otclient/src/framework/core/../stdext/packed_any.h \
+ /workspace/otclient/src/framework/core/../stdext/packed_storage.h \
+ /workspace/otclient/src/framework/core/../stdext/shared_object.h \
+ /workspace/otclient/src/framework/core/../stdext/string.h \
+ /workspace/otclient/src/framework/core/../stdext/time.h \
+ /workspace/otclient/src/framework/core/../util/point.h \
+ /workspace/otclient/src/framework/core/../util/../stdext/types.h \
+ /workspace/otclient/src/framework/core/../util/color.h \
+ /workspace/otclient/src/framework/core/../util/../stdext/cast.h \
+ /workspace/otclient/src/framework/core/../util/../stdext/string.h \
+ /workspace/otclient/src/framework/core/../util/../const.h \
+ /workspace/otclient/src/framework/core/../util/rect.h \
+ /workspace/otclient/src/framework/core/../util/size.h \
+ /workspace/otclient/src/framework/core/../util/point.h \
+ /workspace/otclient/src/framework/core/../util/matrix.h \
+ /workspace/otclient/src/framework/core/../core/logger.h \
+ /workspace/otclient/src/framework/../framework/stdext/thread.h \
  /usr/include/boost/thread/future.hpp \
  /usr/include/boost/thread/detail/config.hpp \
  /usr/include/boost/config.hpp /usr/include/boost/config/user.hpp \
@@ -1105,24 +1105,24 @@ CMakeFiles/otclient.dir/src/framework/core/logger.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/14/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++io.h \
  /usr/include/c++/14/bits/fstream.tcc \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/eventdispatcher.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/clock.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/declarations.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/global.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/scheduledevent.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/core/event.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/luaengine/luaobject.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/luaengine/declarations.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/luaengine/luainterface.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/luaengine/luaexception.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/luaengine/luabinder.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/traits.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/luaengine/luavaluecasts.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/otml/declarations.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/luaengine/luaobject.h \
+ /workspace/otclient/src/framework/core/eventdispatcher.h \
+ /workspace/otclient/src/framework/core/clock.h \
+ /workspace/otclient/src/framework/core/declarations.h \
+ /workspace/otclient/src/framework/../framework/global.h \
+ /workspace/otclient/src/framework/core/scheduledevent.h \
+ /workspace/otclient/src/framework/core/event.h \
+ /workspace/otclient/src/framework/../framework/luaengine/luaobject.h \
+ /workspace/otclient/src/framework/../framework/luaengine/declarations.h \
+ /workspace/otclient/src/framework/../framework/luaengine/luainterface.h \
+ /workspace/otclient/src/framework/../framework/luaengine/luaexception.h \
+ /workspace/otclient/src/framework/../framework/luaengine/luabinder.h \
+ /workspace/otclient/src/framework/../framework/stdext/traits.h \
+ /workspace/otclient/src/framework/../framework/luaengine/luavaluecasts.h \
+ /workspace/otclient/src/framework/../framework/otml/declarations.h \
+ /workspace/otclient/src/framework/../framework/luaengine/luaobject.h \
  /usr/include/c++/14/queue /usr/include/c++/14/bits/stl_queue.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/resourcemanager.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/declarations.h \
+ /workspace/otclient/src/framework/../framework/core/resourcemanager.h \
+ /workspace/otclient/src/framework/../framework/core/declarations.h \
  /usr/include/boost/filesystem.hpp \
  /usr/include/boost/filesystem/config.hpp \
  /usr/include/boost/filesystem/path.hpp \
@@ -1143,13 +1143,13 @@ CMakeFiles/otclient.dir/src/framework/core/logger.cpp.o: \
  /usr/include/boost/detail/bitmask.hpp \
  /usr/include/boost/filesystem/operations.hpp \
  /usr/include/boost/filesystem/convenience.hpp \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/asyncdispatcher.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/platform/platformwindow.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/inputevent.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/timer.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/declarations.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/glutil.h \
+ /workspace/otclient/src/framework/../framework/core/asyncdispatcher.h \
+ /workspace/otclient/src/framework/../framework/platform/platformwindow.h \
+ /workspace/otclient/src/framework/../framework/core/inputevent.h \
+ /workspace/otclient/src/framework/../framework/core/timer.h \
+ /workspace/otclient/src/framework/../framework/graphics/declarations.h \
+ /workspace/otclient/src/framework/../framework/graphics/glutil.h \
  /usr/include/GL/glew.h /usr/include/GL/glu.h /usr/include/GL/gl.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/platform/platform.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/types.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/luaengine/luainterface.h
+ /workspace/otclient/src/framework/../framework/platform/platform.h \
+ /workspace/otclient/src/framework/../framework/stdext/types.h \
+ /workspace/otclient/src/framework/../framework/luaengine/luainterface.h

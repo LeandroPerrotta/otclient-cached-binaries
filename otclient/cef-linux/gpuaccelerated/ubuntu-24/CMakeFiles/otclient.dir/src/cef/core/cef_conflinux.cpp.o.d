@@ -1,8 +1,8 @@
 CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.o: \
- /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_conflinux.cpp \
+ /workspace/otclient/src/cef/core/cef_conflinux.cpp \
  /usr/include/stdc-predef.h \
- /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_conflinux.h \
- /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_config.h \
+ /workspace/otclient/src/cef/core/cef_conflinux.h \
+ /workspace/otclient/src/cef/core/cef_config.h \
  /home/leandro/.local/share/otclient-cef/include/cef_app.h \
  /home/leandro/.local/share/otclient-cef/include/cef_base.h \
  /home/leandro/.local/share/otclient-cef/include/base/cef_build.h \
@@ -316,9 +316,9 @@ CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.o: \
  /home/leandro/.local/share/otclient-cef/include/cef_task.h \
  /home/leandro/.local/share/otclient-cef/include/cef_resource_bundle_handler.h \
  /home/leandro/.local/share/otclient-cef/include/cef_scheme.h \
- /home/leandro/darghos/otclient-dev/edubart/src/cef/core/cef_helper.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/format.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/traits.h \
+ /workspace/otclient/src/cef/core/cef_helper.h \
+ /workspace/otclient/src/framework/../framework/stdext/format.h \
+ /workspace/otclient/src/framework/../framework/stdext/traits.h \
  /usr/include/c++/14/iostream /usr/include/c++/14/iomanip \
  /usr/include/c++/14/locale \
  /usr/include/c++/14/bits/locale_facets_nonio.h /usr/include/c++/14/ctime \
@@ -331,5 +331,5 @@ CMakeFiles/otclient.dir/src/cef/core/cef_conflinux.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/dirent.h \
  /usr/include/x86_64-linux-gnu/bits/dirent_ext.h \
  /usr/include/c++/14/climits \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../cef/resources/cefphysfsresourcehandler.h \
+ /workspace/otclient/src/framework/../cef/resources/cefphysfsresourcehandler.h \
  /usr/include/c++/14/cstdint

@@ -1,8 +1,8 @@
 CMakeFiles/otclient.dir/src/framework/stdext/time.cpp.o: \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/time.cpp \
+ /workspace/otclient/src/framework/stdext/time.cpp \
  /usr/include/stdc-predef.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/time.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/types.h \
+ /workspace/otclient/src/framework/stdext/time.h \
+ /workspace/otclient/src/framework/stdext/types.h \
  /usr/include/c++/14/cstdint \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/os_defines.h \

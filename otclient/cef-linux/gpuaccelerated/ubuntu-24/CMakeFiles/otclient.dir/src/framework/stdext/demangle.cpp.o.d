@@ -1,7 +1,7 @@
 CMakeFiles/otclient.dir/src/framework/stdext/demangle.cpp.o: \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/demangle.cpp \
+ /workspace/otclient/src/framework/stdext/demangle.cpp \
  /usr/include/stdc-predef.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/demangle.h \
+ /workspace/otclient/src/framework/stdext/demangle.h \
  /usr/include/c++/14/typeinfo /usr/include/c++/14/bits/exception.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/os_defines.h \

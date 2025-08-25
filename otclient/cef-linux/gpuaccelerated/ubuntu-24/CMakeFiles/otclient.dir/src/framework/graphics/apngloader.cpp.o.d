@@ -1,7 +1,7 @@
 CMakeFiles/otclient.dir/src/framework/graphics/apngloader.cpp.o: \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/graphics/apngloader.cpp \
+ /workspace/otclient/src/framework/graphics/apngloader.cpp \
  /usr/include/stdc-predef.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/graphics/apngloader.h \
+ /workspace/otclient/src/framework/graphics/apngloader.h \
  /usr/include/c++/14/sstream /usr/include/c++/14/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/os_defines.h \

@@ -1,8 +1,8 @@
 CMakeFiles/otclient.dir/src/framework/util/crypt.cpp.o: \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/util/crypt.cpp \
+ /workspace/otclient/src/framework/util/crypt.cpp \
  /usr/include/stdc-predef.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/util/crypt.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/util/../stdext/types.h \
+ /workspace/otclient/src/framework/util/crypt.h \
+ /workspace/otclient/src/framework/util/../stdext/types.h \
  /usr/include/c++/14/cstdint \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/os_defines.h \
@@ -176,7 +176,7 @@ CMakeFiles/otclient.dir/src/framework/util/crypt.cpp.o: \
  /usr/lib/gcc/x86_64-linux-gnu/14/include/mmintrin.h \
  /usr/lib/gcc/x86_64-linux-gnu/14/include/mm_malloc.h \
  /usr/include/c++/14/stdlib.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/math.h \
+ /workspace/otclient/src/framework/../framework/stdext/math.h \
  /usr/include/c++/14/algorithm /usr/include/c++/14/bits/stl_algo.h \
  /usr/include/c++/14/bits/algorithmfwd.h \
  /usr/include/c++/14/bits/stl_heap.h \
@@ -184,11 +184,11 @@ CMakeFiles/otclient.dir/src/framework/util/crypt.cpp.o: \
  /usr/include/c++/14/bits/stl_tempbuf.h \
  /usr/include/c++/14/pstl/glue_algorithm_defs.h \
  /usr/include/c++/14/pstl/execution_defs.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/types.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/logger.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../global.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/compiler.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../pch.h \
+ /workspace/otclient/src/framework/../framework/stdext/types.h \
+ /workspace/otclient/src/framework/../framework/core/logger.h \
+ /workspace/otclient/src/framework/../framework/core/../global.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/compiler.h \
+ /workspace/otclient/src/framework/../framework/core/../pch.h \
  /usr/include/c++/14/cstring /usr/include/string.h /usr/include/strings.h \
  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
@@ -282,37 +282,37 @@ CMakeFiles/otclient.dir/src/framework/util/crypt.cpp.o: \
  /usr/include/c++/14/bits/locale_facets_nonio.tcc \
  /usr/include/c++/14/bits/locale_conv.h \
  /usr/include/c++/14/bits/quoted_string.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../const.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/stdext.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/any.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/boolean.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/cast.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/exception.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/demangle.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/compiler.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/dumper.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/dynamic_storage.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/types.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/format.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/traits.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/math.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/packed_any.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/packed_storage.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/shared_object.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/string.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../stdext/time.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../util/point.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../util/../stdext/types.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../util/color.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../util/../stdext/cast.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../util/../stdext/string.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../util/../const.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../util/rect.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../util/size.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../util/point.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../util/matrix.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../core/logger.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/thread.h \
+ /workspace/otclient/src/framework/../framework/core/../const.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/stdext.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/any.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/boolean.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/cast.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/exception.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/demangle.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/compiler.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/dumper.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/dynamic_storage.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/types.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/format.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/traits.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/math.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/packed_any.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/packed_storage.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/shared_object.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/string.h \
+ /workspace/otclient/src/framework/../framework/core/../stdext/time.h \
+ /workspace/otclient/src/framework/../framework/core/../util/point.h \
+ /workspace/otclient/src/framework/../framework/core/../util/../stdext/types.h \
+ /workspace/otclient/src/framework/../framework/core/../util/color.h \
+ /workspace/otclient/src/framework/../framework/core/../util/../stdext/cast.h \
+ /workspace/otclient/src/framework/../framework/core/../util/../stdext/string.h \
+ /workspace/otclient/src/framework/../framework/core/../util/../const.h \
+ /workspace/otclient/src/framework/../framework/core/../util/rect.h \
+ /workspace/otclient/src/framework/../framework/core/../util/size.h \
+ /workspace/otclient/src/framework/../framework/core/../util/point.h \
+ /workspace/otclient/src/framework/../framework/core/../util/matrix.h \
+ /workspace/otclient/src/framework/../framework/core/../core/logger.h \
+ /workspace/otclient/src/framework/../framework/stdext/thread.h \
  /usr/include/boost/thread/future.hpp \
  /usr/include/boost/thread/detail/config.hpp \
  /usr/include/boost/thread/detail/platform.hpp \
@@ -1117,9 +1117,9 @@ CMakeFiles/otclient.dir/src/framework/util/crypt.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/14/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++io.h \
  /usr/include/c++/14/bits/fstream.tcc \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/resourcemanager.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/declarations.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/global.h \
+ /workspace/otclient/src/framework/../framework/core/resourcemanager.h \
+ /workspace/otclient/src/framework/../framework/core/declarations.h \
+ /workspace/otclient/src/framework/../framework/global.h \
  /usr/include/boost/filesystem.hpp \
  /usr/include/boost/filesystem/config.hpp \
  /usr/include/boost/filesystem/path.hpp \
@@ -1140,16 +1140,16 @@ CMakeFiles/otclient.dir/src/framework/util/crypt.cpp.o: \
  /usr/include/boost/detail/bitmask.hpp \
  /usr/include/boost/filesystem/operations.hpp \
  /usr/include/boost/filesystem/convenience.hpp \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/platform/platform.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/types.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/application.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/adaptativeframecounter.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/graphicalapplication.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/application.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/declarations.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/graphics/glutil.h \
+ /workspace/otclient/src/framework/../framework/platform/platform.h \
+ /workspace/otclient/src/framework/../framework/stdext/types.h \
+ /workspace/otclient/src/framework/../framework/core/application.h \
+ /workspace/otclient/src/framework/../framework/core/adaptativeframecounter.h \
+ /workspace/otclient/src/framework/../framework/core/graphicalapplication.h \
+ /workspace/otclient/src/framework/../framework/core/application.h \
+ /workspace/otclient/src/framework/../framework/graphics/declarations.h \
+ /workspace/otclient/src/framework/../framework/graphics/glutil.h \
  /usr/include/GL/glew.h /usr/include/GL/glu.h /usr/include/GL/gl.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/inputevent.h \
+ /workspace/otclient/src/framework/../framework/core/inputevent.h \
  /usr/include/boost/uuid/uuid_generators.hpp \
  /usr/include/boost/uuid/nil_generator.hpp \
  /usr/include/boost/uuid/string_generator.hpp \

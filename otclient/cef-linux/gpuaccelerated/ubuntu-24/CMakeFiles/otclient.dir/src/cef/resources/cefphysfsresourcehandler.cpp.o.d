@@ -1,7 +1,7 @@
 CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.o: \
- /home/leandro/darghos/otclient-dev/edubart/src/cef/resources/cefphysfsresourcehandler.cpp \
+ /workspace/otclient/src/cef/resources/cefphysfsresourcehandler.cpp \
  /usr/include/stdc-predef.h \
- /home/leandro/darghos/otclient-dev/edubart/src/cef/resources/cefphysfsresourcehandler.h \
+ /workspace/otclient/src/cef/resources/cefphysfsresourcehandler.h \
  /home/leandro/.local/share/otclient-cef/include/cef_resource_handler.h \
  /home/leandro/.local/share/otclient-cef/include/cef_base.h \
  /home/leandro/.local/share/otclient-cef/include/base/cef_build.h \
@@ -281,11 +281,11 @@ CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.o: \
  /home/leandro/.local/share/otclient-cef/include/cef_response_filter.h \
  /home/leandro/.local/share/otclient-cef/include/cef_scheme.h \
  /usr/include/c++/14/cstdint \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/resourcemanager.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/declarations.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/global.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/compiler.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/pch.h \
+ /workspace/otclient/src/framework/../framework/core/resourcemanager.h \
+ /workspace/otclient/src/framework/../framework/core/declarations.h \
+ /workspace/otclient/src/framework/../framework/global.h \
+ /workspace/otclient/src/framework/../framework/stdext/compiler.h \
+ /workspace/otclient/src/framework/../framework/pch.h \
  /usr/include/c++/14/cmath /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
@@ -326,38 +326,38 @@ CMakeFiles/otclient.dir/src/cef/resources/cefphysfsresourcehandler.cpp.o: \
  /usr/include/c++/14/bits/locale_facets_nonio.tcc \
  /usr/include/c++/14/bits/locale_conv.h \
  /usr/include/c++/14/bits/quoted_string.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/const.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/stdext.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/any.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/boolean.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/cast.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/exception.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/demangle.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/compiler.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/dumper.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/dynamic_storage.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/types.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/format.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/traits.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/math.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/packed_any.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/packed_storage.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/shared_object.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/string.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/time.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/point.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/../stdext/types.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/color.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/../stdext/cast.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/../stdext/string.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/../const.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/rect.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/size.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/point.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/util/matrix.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/logger.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/core/../global.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/thread.h \
+ /workspace/otclient/src/framework/../framework/const.h \
+ /workspace/otclient/src/framework/../framework/stdext/stdext.h \
+ /workspace/otclient/src/framework/../framework/stdext/any.h \
+ /workspace/otclient/src/framework/../framework/stdext/boolean.h \
+ /workspace/otclient/src/framework/../framework/stdext/cast.h \
+ /workspace/otclient/src/framework/../framework/stdext/exception.h \
+ /workspace/otclient/src/framework/../framework/stdext/demangle.h \
+ /workspace/otclient/src/framework/../framework/stdext/compiler.h \
+ /workspace/otclient/src/framework/../framework/stdext/dumper.h \
+ /workspace/otclient/src/framework/../framework/stdext/dynamic_storage.h \
+ /workspace/otclient/src/framework/../framework/stdext/types.h \
+ /workspace/otclient/src/framework/../framework/stdext/format.h \
+ /workspace/otclient/src/framework/../framework/stdext/traits.h \
+ /workspace/otclient/src/framework/../framework/stdext/math.h \
+ /workspace/otclient/src/framework/../framework/stdext/packed_any.h \
+ /workspace/otclient/src/framework/../framework/stdext/packed_storage.h \
+ /workspace/otclient/src/framework/../framework/stdext/shared_object.h \
+ /workspace/otclient/src/framework/../framework/stdext/string.h \
+ /workspace/otclient/src/framework/../framework/stdext/time.h \
+ /workspace/otclient/src/framework/../framework/util/point.h \
+ /workspace/otclient/src/framework/../framework/util/../stdext/types.h \
+ /workspace/otclient/src/framework/../framework/util/color.h \
+ /workspace/otclient/src/framework/../framework/util/../stdext/cast.h \
+ /workspace/otclient/src/framework/../framework/util/../stdext/string.h \
+ /workspace/otclient/src/framework/../framework/util/../const.h \
+ /workspace/otclient/src/framework/../framework/util/rect.h \
+ /workspace/otclient/src/framework/../framework/util/size.h \
+ /workspace/otclient/src/framework/../framework/util/point.h \
+ /workspace/otclient/src/framework/../framework/util/matrix.h \
+ /workspace/otclient/src/framework/../framework/core/logger.h \
+ /workspace/otclient/src/framework/../framework/core/../global.h \
+ /workspace/otclient/src/framework/../framework/stdext/thread.h \
  /usr/include/boost/thread/future.hpp \
  /usr/include/boost/thread/detail/config.hpp \
  /usr/include/boost/config.hpp /usr/include/boost/config/user.hpp \

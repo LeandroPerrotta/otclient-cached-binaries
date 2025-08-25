@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_NO_LIB -DBOOST_THREAD_NO_LIB -DBOT_PROTECTION -DCLIENT -DCRASH_HANDLER -DFW_GRAPHICS -DFW_NET -DFW_SOUND -DFW_XML -DUSE_CEF
 
-CXX_INCLUDES = -I/home/leandro/darghos/otclient-dev/edubart/src/framework/.. -I/usr/include/lua5.1 -I/usr/include/AL -isystem /home/leandro/.local/share/otclient-cef
+CXX_INCLUDES = -I/workspace/otclient/src/framework/.. -I/usr/include/lua5.1 -I/usr/include/AL -isystem /home/leandro/.local/share/otclient-cef
 
 CXX_FLAGS =  -Wall -Wextra -Wno-unused -Wno-unused-parameter -Wno-unused-result -pipe   -pthread -O1 -g -fno-omit-frame-pointer -std=gnu++17   -D"BUILD_TYPE=\"RelWithDebInfo\"" -D"BUILD_COMMIT=\"devel\"" -D"BUILD_REVISION=\"0\"" -D"VERSION=\"1.0.0\""
 

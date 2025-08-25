@@ -1,9 +1,9 @@
 CMakeFiles/otclient.dir/src/framework/ui/uitranslator.cpp.o: \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/ui/uitranslator.cpp \
+ /workspace/otclient/src/framework/ui/uitranslator.cpp \
  /usr/include/stdc-predef.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/ui/uitranslator.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/ui/../const.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/ui/../stdext/compiler.h \
+ /workspace/otclient/src/framework/ui/uitranslator.h \
+ /workspace/otclient/src/framework/ui/../const.h \
+ /workspace/otclient/src/framework/ui/../stdext/compiler.h \
  /usr/include/c++/14/string /usr/include/c++/14/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/os_defines.h \
@@ -128,7 +128,7 @@ CMakeFiles/otclient.dir/src/framework/ui/uitranslator.cpp.o: \
  /usr/include/c++/14/bits/memory_resource.h /usr/include/c++/14/cstddef \
  /usr/include/c++/14/bits/uses_allocator.h \
  /usr/include/c++/14/bits/uses_allocator_args.h /usr/include/c++/14/tuple \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/string.h \
+ /workspace/otclient/src/framework/../framework/stdext/string.h \
  /usr/include/c++/14/cstring /usr/include/string.h /usr/include/strings.h \
  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
@@ -136,17 +136,17 @@ CMakeFiles/otclient.dir/src/framework/ui/uitranslator.cpp.o: \
  /usr/include/c++/14/bits/stl_vector.h \
  /usr/include/c++/14/bits/stl_bvector.h \
  /usr/include/c++/14/bits/vector.tcc \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/types.h \
+ /workspace/otclient/src/framework/../framework/stdext/types.h \
  /usr/include/c++/14/cstdint \
  /usr/lib/gcc/x86_64-linux-gnu/14/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/cast.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/exception.h \
+ /workspace/otclient/src/framework/../framework/stdext/cast.h \
+ /workspace/otclient/src/framework/../framework/stdext/exception.h \
  /usr/include/c++/14/exception /usr/include/c++/14/bits/exception_ptr.h \
  /usr/include/c++/14/bits/cxxabi_init_exception.h \
  /usr/include/c++/14/typeinfo /usr/include/c++/14/bits/nested_exception.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/demangle.h \
+ /workspace/otclient/src/framework/../framework/stdext/demangle.h \
  /usr/include/c++/14/sstream /usr/include/c++/14/istream \
  /usr/include/c++/14/ios /usr/include/c++/14/bits/ios_base.h \
  /usr/include/c++/14/ext/atomicity.h \

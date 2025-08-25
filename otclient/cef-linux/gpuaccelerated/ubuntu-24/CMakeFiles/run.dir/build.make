@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/leandro/darghos/otclient-dev/edubart
+CMAKE_SOURCE_DIR = /workspace/otclient
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24
+CMAKE_BINARY_DIR = /workspace/otclient/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24
 
 # Utility rule file for run.
 
@@ -82,6 +82,6 @@ CMakeFiles/run.dir/clean:
 .PHONY : CMakeFiles/run.dir/clean
 
 CMakeFiles/run.dir/depend:
-	cd /home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/leandro/darghos/otclient-dev/edubart /home/leandro/darghos/otclient-dev/edubart /home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24 /home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24 /home/leandro/darghos/otclient-dev/edubart/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles/run.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /workspace/otclient/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /workspace/otclient /workspace/otclient /workspace/otclient/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24 /workspace/otclient/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24 /workspace/otclient/pre-build/otclient/cef-linux/gpuaccelerated/ubuntu-24/CMakeFiles/run.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/run.dir/depend
 

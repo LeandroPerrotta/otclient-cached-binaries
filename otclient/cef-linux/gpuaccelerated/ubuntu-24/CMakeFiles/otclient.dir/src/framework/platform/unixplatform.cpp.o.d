@@ -1,7 +1,7 @@
 CMakeFiles/otclient.dir/src/framework/platform/unixplatform.cpp.o: \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/platform/unixplatform.cpp \
+ /workspace/otclient/src/framework/platform/unixplatform.cpp \
  /usr/include/stdc-predef.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/platform/platform.h \
+ /workspace/otclient/src/framework/platform/platform.h \
  /usr/include/c++/14/string /usr/include/c++/14/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/os_defines.h \
@@ -130,7 +130,7 @@ CMakeFiles/otclient.dir/src/framework/platform/unixplatform.cpp.o: \
  /usr/include/c++/14/bits/stl_vector.h \
  /usr/include/c++/14/bits/stl_bvector.h \
  /usr/include/c++/14/bits/vector.tcc \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/types.h \
+ /workspace/otclient/src/framework/../framework/stdext/types.h \
  /usr/include/c++/14/cstdint \
  /usr/lib/gcc/x86_64-linux-gnu/14/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
@@ -187,8 +187,8 @@ CMakeFiles/otclient.dir/src/framework/platform/unixplatform.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/unistd-decl.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
  /usr/include/linux/close_range.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/stdext.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/any.h \
+ /workspace/otclient/src/framework/../framework/stdext/stdext.h \
+ /workspace/otclient/src/framework/../framework/stdext/any.h \
  /usr/include/c++/14/algorithm /usr/include/c++/14/bits/stl_algo.h \
  /usr/include/c++/14/bits/algorithmfwd.h \
  /usr/include/c++/14/bits/stl_heap.h \
@@ -197,16 +197,16 @@ CMakeFiles/otclient.dir/src/framework/platform/unixplatform.cpp.o: \
  /usr/include/c++/14/pstl/glue_algorithm_defs.h \
  /usr/include/c++/14/pstl/execution_defs.h /usr/include/c++/14/cassert \
  /usr/include/assert.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/boolean.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/cast.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/exception.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/demangle.h \
+ /workspace/otclient/src/framework/../framework/stdext/boolean.h \
+ /workspace/otclient/src/framework/../framework/stdext/cast.h \
+ /workspace/otclient/src/framework/../framework/stdext/exception.h \
+ /workspace/otclient/src/framework/../framework/stdext/demangle.h \
  /usr/include/c++/14/sstream /usr/include/c++/14/bits/sstream.tcc \
  /usr/include/c++/14/iostream \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/compiler.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/dumper.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/dynamic_storage.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/types.h \
+ /workspace/otclient/src/framework/../framework/stdext/compiler.h \
+ /workspace/otclient/src/framework/../framework/stdext/dumper.h \
+ /workspace/otclient/src/framework/../framework/stdext/dynamic_storage.h \
+ /workspace/otclient/src/framework/../framework/stdext/types.h \
  /usr/include/c++/14/unordered_map \
  /usr/include/c++/14/bits/unordered_map.h \
  /usr/include/c++/14/bits/hashtable.h \
@@ -215,8 +215,8 @@ CMakeFiles/otclient.dir/src/framework/platform/unixplatform.cpp.o: \
  /usr/include/c++/14/bits/enable_special_members.h \
  /usr/include/c++/14/bits/node_handle.h \
  /usr/include/c++/14/bits/erase_if.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/format.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/traits.h \
+ /workspace/otclient/src/framework/../framework/stdext/format.h \
+ /workspace/otclient/src/framework/../framework/stdext/traits.h \
  /usr/include/c++/14/iomanip /usr/include/c++/14/locale \
  /usr/include/c++/14/bits/locale_facets_nonio.h /usr/include/c++/14/ctime \
  /usr/include/x86_64-linux-gnu/c++/14/bits/time_members.h \
@@ -224,14 +224,14 @@ CMakeFiles/otclient.dir/src/framework/platform/unixplatform.cpp.o: \
  /usr/include/libintl.h /usr/include/c++/14/bits/locale_facets_nonio.tcc \
  /usr/include/c++/14/bits/locale_conv.h \
  /usr/include/c++/14/bits/quoted_string.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/math.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/packed_any.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/packed_storage.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/shared_object.h \
+ /workspace/otclient/src/framework/../framework/stdext/math.h \
+ /workspace/otclient/src/framework/../framework/stdext/packed_any.h \
+ /workspace/otclient/src/framework/../framework/stdext/packed_storage.h \
+ /workspace/otclient/src/framework/../framework/stdext/shared_object.h \
  /usr/include/c++/14/functional /usr/include/c++/14/bits/std_function.h \
  /usr/include/c++/14/array /usr/include/c++/14/compare \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/string.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/time.h \
+ /workspace/otclient/src/framework/../framework/stdext/string.h \
+ /workspace/otclient/src/framework/../framework/stdext/time.h \
  /usr/include/x86_64-linux-gnu/sys/stat.h \
  /usr/include/x86_64-linux-gnu/bits/stat.h \
  /usr/include/x86_64-linux-gnu/bits/struct_stat.h \

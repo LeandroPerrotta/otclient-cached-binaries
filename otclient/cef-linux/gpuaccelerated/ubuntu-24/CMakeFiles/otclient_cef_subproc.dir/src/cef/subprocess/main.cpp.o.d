@@ -1,7 +1,7 @@
 CMakeFiles/otclient_cef_subproc.dir/src/cef/subprocess/main.cpp.o: \
- /home/leandro/darghos/otclient-dev/edubart/src/cef/subprocess/main.cpp \
+ /workspace/otclient/src/cef/subprocess/main.cpp \
  /usr/include/stdc-predef.h \
- /home/leandro/darghos/otclient-dev/edubart/src/cef/subprocess/../core/cef_app.h \
+ /workspace/otclient/src/cef/subprocess/../core/cef_app.h \
  /home/leandro/.local/share/otclient-cef/include/cef_app.h \
  /home/leandro/.local/share/otclient-cef/include/cef_base.h \
  /home/leandro/.local/share/otclient-cef/include/base/cef_build.h \

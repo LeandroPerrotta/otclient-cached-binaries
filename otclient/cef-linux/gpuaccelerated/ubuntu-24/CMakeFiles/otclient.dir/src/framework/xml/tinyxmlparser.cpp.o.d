@@ -1,5 +1,5 @@
 CMakeFiles/otclient.dir/src/framework/xml/tinyxmlparser.cpp.o: \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/xml/tinyxmlparser.cpp \
+ /workspace/otclient/src/framework/xml/tinyxmlparser.cpp \
  /usr/include/stdc-predef.h /usr/include/ctype.h /usr/include/features.h \
  /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -16,8 +16,7 @@ CMakeFiles/otclient.dir/src/framework/xml/tinyxmlparser.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
  /usr/lib/gcc/x86_64-linux-gnu/14/include/stddef.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/xml/tinyxml.h \
- /usr/include/stdio.h \
+ /workspace/otclient/src/framework/xml/tinyxml.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/lib/gcc/x86_64-linux-gnu/14/include/stdarg.h \
  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
@@ -70,10 +69,10 @@ CMakeFiles/otclient.dir/src/framework/xml/tinyxmlparser.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
  /usr/include/assert.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/const.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/compiler.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/cast.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/exception.h \
+ /workspace/otclient/src/framework/../framework/const.h \
+ /workspace/otclient/src/framework/../framework/stdext/compiler.h \
+ /workspace/otclient/src/framework/../framework/stdext/cast.h \
+ /workspace/otclient/src/framework/../framework/stdext/exception.h \
  /usr/include/c++/14/exception /usr/include/c++/14/bits/exception.h \
  /usr/include/c++/14/bits/version.h \
  /usr/include/c++/14/bits/exception_ptr.h \
@@ -139,7 +138,7 @@ CMakeFiles/otclient.dir/src/framework/xml/tinyxmlparser.cpp.o: \
  /usr/include/c++/14/bits/memory_resource.h /usr/include/c++/14/cstddef \
  /usr/include/c++/14/bits/uses_allocator.h \
  /usr/include/c++/14/bits/uses_allocator_args.h /usr/include/c++/14/tuple \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/demangle.h \
+ /workspace/otclient/src/framework/../framework/stdext/demangle.h \
  /usr/include/c++/14/sstream /usr/include/c++/14/istream \
  /usr/include/c++/14/ios /usr/include/c++/14/bits/ios_base.h \
  /usr/include/c++/14/ext/atomicity.h \
@@ -175,15 +174,15 @@ CMakeFiles/otclient.dir/src/framework/xml/tinyxmlparser.cpp.o: \
  /usr/include/c++/14/bits/ostream.tcc \
  /usr/include/c++/14/bits/istream.tcc \
  /usr/include/c++/14/bits/sstream.tcc /usr/include/c++/14/iostream \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/string.h \
+ /workspace/otclient/src/framework/../framework/stdext/string.h \
  /usr/include/c++/14/cstring /usr/include/c++/14/vector \
  /usr/include/c++/14/bits/stl_uninitialized.h \
  /usr/include/c++/14/bits/stl_vector.h \
  /usr/include/c++/14/bits/stl_bvector.h \
  /usr/include/c++/14/bits/vector.tcc \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/types.h \
+ /workspace/otclient/src/framework/../framework/stdext/types.h \
  /usr/include/c++/14/cstdint \
  /usr/lib/gcc/x86_64-linux-gnu/14/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/../framework/stdext/cast.h
+ /workspace/otclient/src/framework/../framework/stdext/cast.h

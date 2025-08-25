@@ -1,7 +1,7 @@
 CMakeFiles/otclient.dir/src/framework/stdext/string.cpp.o: \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/string.cpp \
+ /workspace/otclient/src/framework/stdext/string.cpp \
  /usr/include/stdc-predef.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/string.h \
+ /workspace/otclient/src/framework/stdext/string.h \
  /usr/include/c++/14/string /usr/include/c++/14/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/os_defines.h \
@@ -133,17 +133,17 @@ CMakeFiles/otclient.dir/src/framework/stdext/string.cpp.o: \
  /usr/include/c++/14/bits/stl_vector.h \
  /usr/include/c++/14/bits/stl_bvector.h \
  /usr/include/c++/14/bits/vector.tcc \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/types.h \
+ /workspace/otclient/src/framework/stdext/types.h \
  /usr/include/c++/14/cstdint \
  /usr/lib/gcc/x86_64-linux-gnu/14/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/cast.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/exception.h \
+ /workspace/otclient/src/framework/stdext/cast.h \
+ /workspace/otclient/src/framework/stdext/exception.h \
  /usr/include/c++/14/exception /usr/include/c++/14/bits/exception_ptr.h \
  /usr/include/c++/14/bits/cxxabi_init_exception.h \
  /usr/include/c++/14/typeinfo /usr/include/c++/14/bits/nested_exception.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/demangle.h \
+ /workspace/otclient/src/framework/stdext/demangle.h \
  /usr/include/c++/14/sstream /usr/include/c++/14/istream \
  /usr/include/c++/14/ios /usr/include/c++/14/bits/ios_base.h \
  /usr/include/c++/14/ext/atomicity.h \
@@ -179,8 +179,8 @@ CMakeFiles/otclient.dir/src/framework/stdext/string.cpp.o: \
  /usr/include/c++/14/bits/ostream.tcc \
  /usr/include/c++/14/bits/istream.tcc \
  /usr/include/c++/14/bits/sstream.tcc /usr/include/c++/14/iostream \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/format.h \
- /home/leandro/darghos/otclient-dev/edubart/src/framework/stdext/traits.h \
+ /workspace/otclient/src/framework/stdext/format.h \
+ /workspace/otclient/src/framework/stdext/traits.h \
  /usr/include/c++/14/cassert /usr/include/assert.h \
  /usr/include/c++/14/iomanip /usr/include/c++/14/locale \
  /usr/include/c++/14/bits/locale_facets_nonio.h /usr/include/c++/14/ctime \
